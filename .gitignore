@@ -1,0 +1,38 @@
+# User reference folder
+ShaanReferences/
+
+# Checkpoints and model weights
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.onnx
+*.weights
+
+# Compressed archives
+*.zip
+*.tar
+*.gz
+kaggle_submission_package/*.zip
+kaggle_dataset_upload/*.zip
+kaggle_submission_package/temp_fp16/
+
+# Large data indexes & temporary files
+*.parquet
+*.tmp
+study_to_series_map.json
+catboost_info/
+kernel_output/
+
+# Python cache & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+untitled.py
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
