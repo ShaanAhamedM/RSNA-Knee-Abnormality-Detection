@@ -1,0 +1,57 @@
+[
+  {
+    "index": 0,
+    "type": "code",
+    "source": "import torch\nimport zipfile\nimport pandas as pd\nimport pydicom\nimport io\nimport matplotlib.pyplot as plt\n\n# Check if PyTorch is connected to the NVIDIA GPU\nprint(f\"GPU Available: {torch.cuda.is_available()}\")\nif torch.cuda.is_available():\n    print(f\"GPU Name: {torch.cuda.get_device_name(0)}\")"
+  },
+  {
+    "index": 1,
+    "type": "code",
+    "source": "# Update this path if your zip file is located somewhere else!\nzip_path = r\"D:\\RSNA\\rsna-knee-abnormality-detection.zip\" \n\nprint(\"Opening zip file...\")\nwith zipfile.ZipFile(zip_path, 'r') as z:\n    \n    # Let's read train.csv directly from the zip into a Pandas table\n    with z.open('train.csv') as f:\n        train_df = pd.read_csv(f)\n        print(\"Successfully loaded train.csv!\")\n        \n        # 'display' makes tables look super clean in Jupyter\n        display(train_df.head())"
+  },
+  {
+    "index": 2,
+    "type": "code",
+    "source": "print(\"Searching for an MRI image...\")\nwith zipfile.ZipFile(zip_path, 'r') as z:\n    \n    # Find all files ending in .dcm\n    all_files = z.namelist()\n    dcm_files = [f for f in all_files if f.endswith('.dcm')]\n    \n    if dcm_files:\n        first_image_path = dcm_files[0]\n        print(f\"Opening image: {first_image_path}\")\n        \n        # Extract just this ONE image into RAM\n        with z.open(first_image_path) as f:\n            dicom_data = pydicom.dcmread(io.BytesIO(f.read()))\n            image_array = dicom_data.pixel_array\n            \n            # Draw the image\n            plt.figure(figsize=(6, 6))\n            plt.imshow(image_array, cmap='gray')\n            plt.title(\"Your First Knee MRI Slice!\")\n            plt.axis('off')\n            plt.show()\n    else:\n        print(\"Could not find any .dcm files in the zip. Let's check the folder structure.\")"
+  },
+  {
+    "index": 3,
+    "type": "code",
+    "source": "from torch.utils.data import Dataset\nimport numpy as np\n\nclass RSNAZipDataset(Dataset):\n    def __init__(self, dataframe, zip_path, transform=None):\n        self.dataframe = dataframe\n        self.zip_path = zip_path\n        self.transform = transform\n        self.zip_handler = None\n        \n        # We explicitly list out the target columns we found\n        self.disease_columns = [\n            'ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', \n            'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', \n            'Synovitis', \"Baker's\", 'Contusion', 'Fracture'\n        ]\n\n    def __len__(self):\n        return len(self.dataframe)\n\n    def __getitem__(self, idx):\n        # 1. Open the zip file if it isn't open yet\n        if self.zip_handler is None:\n            self.zip_handler = zipfile.ZipFile(self.zip_path, 'r')\n            \n        # 2. Get the specific row from our table\n        row = self.dataframe.iloc[idx]\n        \n        # 3. Get the correct ID!\n        study_id = row['StudyInstanceUID']\n        \n        # 4. Grab the labels \n        # (Note: In the screenshot, some are NaN (Not a Number). \n        # We will write code to handle missing data in Phase 2!)\n        labels = row[self.disease_columns].values.astype(np.float32)\n        \n        return {\"study_id\": study_id, \"labels\": labels}\n\nprint(\"RSNAZipDataset blueprint successfully updated and created!\")"
+  },
+  {
+    "index": 4,
+    "type": "code",
+    "source": "# Let's just display the first 3 rows of the ENTIRE table to see the raw data\nprint(\"First 3 rows of the dataset:\")\ndisplay(train_df.head(3))\n\n# Let's also print the exact column names as a clean Python list\nprint(\"\\nExact column names in our dataset:\")\nprint(list(train_df.columns))"
+  },
+  {
+    "index": 5,
+    "type": "code",
+    "source": "# Define our disease columns explicitly again just to be safe\ndisease_columns = [\n    'ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', \n    'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', \n    'Synovitis', \"Baker's\", 'Contusion', 'Fracture'\n]\n\n# Replace all NaN values with 0\ntrain_df[disease_columns] = train_df[disease_columns].fillna(0)\n\nprint(\"Missing values successfully handled!\")\ndisplay(train_df[['StudyInstanceUID'] + disease_columns].head(3))"
+  },
+  {
+    "index": 6,
+    "type": "code",
+    "source": "print(\"Mapping the folder structure...\")\n\n# We use the 'z' zipfile object we opened in the last cell\nwith zipfile.ZipFile(zip_path, 'r') as z:\n    all_files = z.namelist()\n    \n# Grab the ID of the very first patient in our table\nfirst_patient_id = train_df.iloc[0]['StudyInstanceUID']\nprint(f\"Looking for images for patient: {first_patient_id}\")\n\n# Search the zip file for any DICOMs belonging to this patient\npatient_files = [f for f in all_files if first_patient_id in f and f.endswith('.dcm')]\n\nif patient_files:\n    print(f\"\\nSuccess! Found {len(patient_files)} images for this patient.\")\n    print(f\"The exact path to the first image looks like this:\")\n    print(patient_files[0])\nelse:\n    print(\"\\nUh oh, could not find images for this patient.\")"
+  },
+  {
+    "index": 7,
+    "type": "code",
+    "source": "import pydicom\nimport io\nimport cv2\nimport numpy as np\nimport matplotlib.pyplot as plt\n\ndef process_and_resize_image(dicom_bytes, target_size=224):\n    # 1. Read the raw DICOM from memory\n    dicom_data = pydicom.dcmread(io.BytesIO(dicom_bytes))\n    image = dicom_data.pixel_array.astype(float)\n    \n    # 2. Normalize the pixels to be between 0 and 1 (AI loves numbers between 0 and 1)\n    # This also fixes contrast issues!\n    image_min = image.min()\n    image_max = image.max()\n    if image_max > image_min:\n        image = (image - image_min) / (image_max - image_min)\n    else:\n        image = np.zeros(image.shape)\n        \n    # 3. Resize the image to 224x224\n    image_resized = cv2.resize(image, (target_size, target_size))\n    \n    return image, image_resized\n\n# Let's use the exact path we just found in the last cell\nexact_image_path = patient_files[0] \nprint(f\"Extracting and resizing: {exact_image_path.split('/')[-1]}\")\n\nwith zipfile.ZipFile(zip_path, 'r') as z:\n    with z.open(exact_image_path) as f:\n        # Read the raw bytes from the zip\n        raw_bytes = f.read()\n        \n        # Pass it to our new function!\n        original_img, resized_img = process_and_resize_image(raw_bytes)\n        \n        # Let's plot them side-by-side\n        fig, axes = plt.subplots(1, 2, figsize=(10, 5))\n        \n        axes[0].imshow(original_img, cmap='gray')\n        axes[0].set_title(f\"Original Image\\nSize: {original_img.shape}\")\n        axes[0].axis('off')\n        \n        axes[1].imshow(resized_img, cmap='gray')\n        axes[1].set_title(f\"AI-Ready Image\\nSize: {resized_img.shape}\")\n        axes[1].axis('off')\n        \n        plt.tight_layout()\n        plt.show()"
+  },
+  {
+    "index": 8,
+    "type": "code",
+    "source": "import torch\nfrom torch.utils.data import Dataset\nimport pydicom\nimport io\nimport cv2\nimport numpy as np\nimport zipfile\n\nclass RSNAZipDataset(Dataset):\n    def __init__(self, dataframe, zip_path, target_size=224):\n        self.dataframe = dataframe\n        self.zip_path = zip_path\n        self.target_size = target_size\n        self.zip_handler = None\n        \n        # The exact target columns we cleaned earlier\n        self.disease_columns = [\n            'ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', \n            'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', \n            'Synovitis', \"Baker's\", 'Contusion', 'Fracture'\n        ]\n        \n        # We create a list of all files in the zip ONE time when this initializes\n        # so we don't have to search the massive zip file over and over.\n        print(\"Indexing zip file for fast access... (this takes a few seconds)\")\n        with zipfile.ZipFile(self.zip_path, 'r') as z:\n            self.all_files = z.namelist()\n\n    def __len__(self):\n        # Tells PyTorch how many patients we have\n        return len(self.dataframe)\n\n    def __getitem__(self, idx):\n        # 1. Open the zip file if it isn't open yet (lazy loading)\n        if self.zip_handler is None:\n            self.zip_handler = zipfile.ZipFile(self.zip_path, 'r')\n            \n        # 2. Get the specific patient row and ID\n        row = self.dataframe.iloc[idx]\n        study_id = row['StudyInstanceUID']\n        \n        # 3. Find the FIRST image for this patient\n        # (For this baseline, we will just train the AI on one slice per patient)\n        patient_image_path = None\n        for f in self.all_files:\n            if study_id in f and f.endswith('.dcm'):\n                patient_image_path = f\n                break\n                \n        # 4. Extract, Normalize, and Resize the image using OpenCV\n        if patient_image_path:\n            with self.zip_handler.open(patient_image_path) as f:\n                dicom_data = pydicom.dcmread(io.BytesIO(f.read()))\n                image = dicom_data.pixel_array.astype(float)\n                \n                image_min = image.min()\n                image_max = image.max()\n                if image_max > image_min:\n                    image = (image - image_min) / (image_max - image_min)\n                else:\n                    image = np.zeros(image.shape)\n                    \n                image_resized = cv2.resize(image, (self.target_size, self.target_size))\n        else:\n            # Fallback if a patient has no images (creates a blank black square)\n            image_resized = np.zeros((self.target_size, self.target_size))\n            \n        # 5. Format for PyTorch: AI needs (Channels, Height, Width)\n        # Even though it is grayscale, PyTorch expects 1 color channel: (1, 224, 224)\n        image_tensor = torch.tensor(image_resized, dtype=torch.float32).unsqueeze(0)\n        \n        # 6. Grab the labels and convert them to a PyTorch Tensor\n        labels = torch.tensor(row[self.disease_columns].values.astype(np.float32))\n        \n        # Return the final dictionary package!\n        return {\"image\": image_tensor, \"labels\": labels}\n\nprint(\"\\nFinal Dataset Engine Successfully Compiled!\")"
+  },
+  {
+    "index": 9,
+    "type": "code",
+    "source": "# 1. Create the dataset object\n# (Make sure zip_path and train_df are still defined from your earlier cells)\nmy_dataset = RSNAZipDataset(dataframe=train_df, zip_path=zip_path, target_size=224)\n\n# 2. Ask for the very first patient\nsample = my_dataset[0]\n\n# 3. Inspect the final AI-ready output\nprint(f\"\\n--- Output Analysis ---\")\nprint(f\"Image Tensor Shape: {sample['image'].shape}\")\nprint(f\"Labels Tensor Shape: {sample['labels'].shape}\")\nprint(f\"Label Values: {sample['labels']}\")"
+  },
+  {
+    "index": 10,
+    "type": "code",
+    "source": ""
+  }
+]
