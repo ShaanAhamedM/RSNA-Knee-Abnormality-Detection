@@ -1,0 +1,1197 @@
+Total Gold Studies: 58
+====================================================================================================
+
+--- STUDY 1/58 [UID: 1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149] ---
+POS: ['PF OA', 'Effusion']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Antecedentes Clínicos:
+Esguince rodilla. [DATE].
+Hallazgos:
+No hay alteraciones de señal significativas de la médula ósea.
+Ligamentos cruzados y colaterales dentro de límites normales.
+Amputación marginal del cuerpo del menisco lateral. Menisco medial de morfología y señal
+conservada, sin signos de rotura.
+Cartílagos de los compartimentos femorotibiales sin alteraciones.
+Fina úlcera condral focal de espesor total del aspecto inferior de la vertiente medial de la tróclea
+femoral con mínimos cambios óseos secundarios. Fenómenos condrales reparativos de la región
+central de la simple femoral. Cartílago rotuliano sin alteraciones.
+Leve derrame articular. No hay quistes poplíteos patológicos.
+Aumento de señal de la inserción distal del tendón cuadricipital y de la inserción proximal del
+tendón rotuliano, sin signos de rotura.
+No hay alteraciones de señal de la grasa de Hoffa.
+Impresión:
+Amputación marginal del cuerpo del menisco lateral.
+Condropatía focal grado 4 del aspecto inferior de la vertiente medial de la tróclea femoral .
+Fenómenos condrales reparativos de la región central de la tróclea femoral.
+Leve derrame articular.
+Leve tendinosis cuadricipital distal y rotuliana proximal.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 2/58 [UID: 1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269] ---
+POS: ['Lateral Meniscus', 'PF OA', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Medial OA', 'Lateral OA', 'Effusion', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+The study reveals normal knee joint alignment.   No fracture is seen.  
+   ACL is intact.   PCL is preserved.  
+  The MCL is intact.    Medial meniscus is not torn.  
+  The FCL, popliteus and biceps femoris tendons are preserved.       
+   Horizontal tear at anterior horn of the lateral meniscus is noted.  
+   Focal osteochondral defect at lateral patellar facet, about 8x12mm. with subchondral bone edema is detected.   Full thickness cartilage defect, 1.2x1.5cm. at lateral trochlea with subchondral bone edema is noted.   Small osteochondral body, about intact9xintact4cm. at anterior infrapatellar recess is noted.   
+  The quadriceps and patellar tendons are preserved.   
+   Moderate joint effusion, distended suprapatellar bursa with thickend synovial tissue are observed.  Horizontal tear at anterior horn of the lateral meniscus.  
+     Osteochondral fracture at lateral patellar facet, about 8x12mm. with dislodge OCD fragment. 
+     Full thickness cartilage defect, 1.2x1.5cm. at lateral trochlea with subchondral bone edema. 
+      Small osteochondral body, about intact9xintact4cm. at anterior infrapatellar recess. 
+      Chronic reactive synovitis, suprapatellar bursitis
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 3/58 [UID: 1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052] ---
+POS: ['Medial Meniscus', 'Medial OA', 'PF OA', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Lateral Meniscus', 'Lateral OA', 'Effusion', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Exam Type: MRI KNEE RIGHT WO CONTRAST
+Exam Date and Time: [DATE] [TIME]
+Indication: 2 years of pain with walking up and down the stairs twisting and squatting.
+Comparison: No relevant prior studies available for comparison.
+
+TECHNIQUE:
+MRI of the right knee was performed on a 1.5 Tesla system body coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.
+
+FINDINGS:
+OSSEOUS STRUCTURES:
+Alignment is anatomic. No acute fracture or bone bruise. Background marrow signal is normal without infiltrative marrow process. No aggressive osseous lesions. Tricompartmental marginal osteophytes
+
+JOINT SPACE:
+Small joint effusion. No intra-articular bodies. No Baker's cyst.
+
+MEDIAL COMPARTMENT:
+Medial meniscus: Extensive complete tearing of the body, posterior horn, and posterior root medial meniscus with severe extrusion.
+Medial compartment cartilage: Full thickness cartilage loss along the medial femoral condyle and medial tibial plateau with subchondral cystic change and marrow edema.
+
+LATERAL COMPARTMENT:
+Lateral meniscus: Degenerative signal throughout the lateral meniscus without surfacing tear.
+Lateral compartment cartilage: Mild cartilage heterogeneity and fissuring.
+
+PATELLOFEMORAL COMPARTMENT:
+Patellofemoral compartment cartilage: High-grade cartilage loss along the medial patellar facet. High grade cartilage loss at lateral trochlea. 
+
+CRUCIATE LIGAMENTS:
+Anterior cruciate ligament (ACL): Normal with both bundles intact.
+Posterior cruciate ligament (PCL): Normal.
+
+COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
+Medial collateral ligament (MCL): Normal.
+Lateral collateral ligament (LCL) complex: Normal.
+Posterolateral corner structures: Normal.
+
+EXTENSOR MECHANISM:
+Distal quadriceps tendon: No tendinosis or tear.
+Patella tendon: No tendinosis or tear.
+Medial patellofemoral ligament (MPFL) and patellar retinacula: Normal.
+Patellofemoral tracking: No edema in superolateral Hoffa's fat pad. No lateral patellar tilt or translation. No patella alta. Normal patellar and trochlear morphology. Normal tibial tubercle-trochlear groove (TT-TG) distance measuring 17 mm.
+
+MUSCLES/TENDONS:
+No acute muscle strain or muscle atrophy. Visualized tendons not previously discussed are intact without tendinosis or tear.
+
+SOFT TISSUES:
+Nonspecific prepatellar and scattered subcutaneous edema about the knee. No soft tissue mass. Normal popliteal neurovascular bundle.
+
+IMPRESSION:
+1.	Extensive complete tearing of the body, posterior horn, and posterior root medial meniscus with severe extrusion.
+2.	Tricompartmental osteoarthritis worse in the medial compartment.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 4/58 [UID: 1.2.826.0.1.3680043.8.498.11287937729196958426538087439102017580] ---
+POS: ['Effusion']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+MRI of left Knee with 
+-3-Plane Loc R'T, Sag PD FS, AX T2 FS, Sag T2 FS, Sag T1, CORT2 FS
+
+> There is no abnormal intensity or articular surface disrupt in the medial meniscus, It appears to be normal.
+> There is no increased intensity in the ACL, MCL and LCL, it appears to be normal
+> Interstitial high intensity, irregular contour and laxity in the PCL, suspected complete tear
+> Synovial membrane thickening in the knee joint with fluid accumulation and hofa fat pad stranding, knee arthritis with hoffitis noted
+> Fluid accumulated in the suprapatella bursa with quadricep and prefemoral fat pad stranding, suprapatellar bursitis noted
+> Fluid accumulated in the posterior medial condyle region
+> Medial plica and suprapatellar plicae noted
+> Relatively enlarged caliber of the popliteal vein  with heterogenous hyperintensity (srs: 6, Img: 24-30) and prominenet superficial veines, the possiblity of deep vein thrombosis can't totally excluded.
+
+Impression:
+1. C/W PCL complete tear, grade 3 injury
+2. Synovitis of left knee and massive joint effusion and suprapatellar bursitis; complex plicae.
+3. Subcutaneous edema around left knee.
+4. R/O deep vein thrombosis of left popliteal vein. Suggest correlation with clinical manifestation
+Suggest correlation with clinical manifestation
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 5/58 [UID: 1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238] ---
+POS: ['ACL', 'Medial Meniscus']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+In the medial compartment, there is longitudinal vertical tear at the body and posterior horn of the medial meniscus. There is no focal chondrosis or chondral injury. 
+ The lateral compartment, the meniscus is not torn and there is no focal chondrosis or chondral injury. 
+ The patellofemoral joint, the patellar and trochlear cartilage appears congruent without chondral lesion. The medial patellofemoral ligament is intact.  
+ In the intercondylar notch, there is complete tear of the anterior cruciate ligament, at mid substance. The posterior cruciate ligament is intact. There is anterior tibial translation.   
+ The medial and lateral collateral ligament complexes are intact. The extensor mechanism is normal.  
+ No knee effusion is present. The surrounding musculature is normal. There is no fracture or bone contusion.   -- Longitudinal vertical tear at the body and posterior horn of the medial meniscus. 
+ -- Complete tear of the anterior cruciate ligament, at mid substance.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 6/58 [UID: 1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935] ---
+POS: ['Effusion', 'Synovitis', 'Contusion']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's", 'Fracture']
+REPORT TEXT:
+In the medial compartment, the meniscus is not torn and there is no focal chondrosis or chondral injury. 
+  
+ The lateral compartment, there is complex tear (main radial and longitudinal vertical component) at the posterior horn of the lateral meniscus. There is no focal chondrosis or chondral injury. 
+  
+ The patellofemoral joint, the patellar and trochlear cartilage appears congruent without chondral lesion. The medial patellofemoral ligament is intact.  
+ In the intercondylar notch, there is interstitial tear of the anterior cruciate ligament, at mid substance. The posterior cruciate ligament is intact. There is no tibial translation. 
+  
+ The medial collateral ligament complexes are intact. The posteromedial oblique ligament is intact.  
+  
+ There is grade II ligamentous sprain (partial tear) of  lateral collateral ligament. Partial tear of the intraarticular portion, popliteus tendon is present. The popliteofibular ligament is intact. The meniscopopliteal fascicles are intact.  
+  
+ The extensor mechanism is normal.  
+  
+ Some amount of right knee effusion with hemarthrosis is present. There is popliteus muscle contusion.  There is no fracture or bone contusion.   Complex tear (main radial and longitudinal vertical component) at the posterior horn of the lateral meniscus. 
+  Interstitial tear of the anterior cruciate ligament, at mid substance.  
+  Grade II ligamentous sprain (partial tear) of  lateral collateral ligament.  
+  Partial tear of the intraarticular portion, popliteus tendon. 
+  Some amount of right knee effusion with hemarthrosis. 
+  Popliteus muscle contusion.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 7/58 [UID: 1.2.826.0.1.3680043.8.498.11557620559191469069130827959098335840] ---
+POS: ['ACL', 'Lateral Meniscus', 'Lateral OA', 'Effusion']
+NEG: ['MCL', 'Medial Meniscus', 'Medial OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Antecedentes Clínicos:
+Rodilla traumática aguda.
+Hallazgos:
+Rotura espesor y ancho total de la unión del tercio medio del tercio proximal del LCA asociado a
+discreto edema óseo del aspecto posterior de platillo tibial lateral. LCP y ligamentos colaterales sin
+alteraciones significativas.
+Aumento de señal central del cuerno posterior y cuerpo del menisco medial que no impresiona
+contactar con la superficie articular, sin caracteres propios de rotura.
+Menisco lateral con pequeña rotura radial incompleta de la unión del cuerno posterior con el
+cuerpo, sin desplazamiento de segmentos.
+Úlcera condral de espesor total de la zona de carga del cóndilo femoral lateral que mide
+aproximadamente 6 x 5 mm en sus ejes mediolateral y anteroposterior, sin cambios óseos
+secundarios. Fina úlcera condral focal de espesor total del aspecto posterior de platillo tibial
+lateral. El resto de los cartílagos femorotibiales y patelofemorales sin alteraciones.
+Leve a moderado derrame articular, probablemente hemartrosis. Leve cantidad de liquido
+intermuscular en la región poplítea.
+Tendones cuadricipital, rotuliano, tendones de la pata de ganso, bíceps femoral y banda iliotibial
+dentro de límites normales.
+Impresión:
+Rotura espesor y ancho total del LCA.
+Rotura radial incompleta de la unión del cuerno posterior con el cuerpo del menisco lateral.
+Condropatía lesiones grado 3 del compartimento femorotibial lateral, previamente descritas.
+Leve a moderado derrame articular, probablemente hemartrosis
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 8/58 [UID: 1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756] ---
+POS: ['MCL', 'Contusion']
+NEG: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Fracture']
+REPORT TEXT:
+MRI of Knee with 
+-Locator, SG PD FatSat, SG T2W FS, SG T1W, CO T2W FS, AX T2W FS
+
+
+
+* High signal in the soft tissue medial to the medial collateral ligament with mild increased signal intensity of proximal ligament, suspect grade 2 injury.
+* Interstitial hyperintense signal of ACL, in favor of grade 1 injury.
+* Bone marrow edema in bilateral femoral condyles and anteromedial and posterolateral aspect of proximal tibia, suspect bone contusion.
+* Subcutaneous edema over medial aspect of right knee.
+* Some joint effusion of right knee with mild hypertrophy of the synovium, indicative of synovitis.
+> The contour of ACL & PCL appear to be within normal.
+> No evidence of tear noted in either medial or lateral meniscus in this study.
+> The quadriceps and patellar tendons appear to be within normal.
+
+Impression:
+1. Suspect grade 2 injury of MCL with adjacent soft tissue edema over anteromedial aspect of right knee.
+2. Suspect grade 1 injury of ACL.
+3. Bone marrow edema in distal femur and proximal tibia (major at anteromedial and posterolateral aspect), suspect bone contusion.
+4. Mild synovitis of right knee joint.
+
+Suggest correlation with clinical manifestation.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 9/58 [UID: 1.2.826.0.1.3680043.8.498.11851412923016044948101698015974810604] ---
+POS: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'PF OA', 'Effusion', 'Fracture']
+NEG: ['ACL', 'MCL', 'Lateral OA', 'Synovitis', "Baker's", 'Contusion']
+REPORT TEXT:
+Exam Type: MRI KNEE RIGHT WO CONTRAST
+Exam Date and Time: [DATE] [TIME]
+Indication: Pain
+Comparison: No relevant prior studies available for comparison.
+
+TECHNIQUE:
+MRI of the right knee was performed on a 3.0 Tesla system with a dedicated knee coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.
+
+FINDINGS:
+OSSEOUS STRUCTURES:
+Alignment is anatomic. Subchondral insufficiency fracture at the medial margin of the medial tibial plateau without articular surface collapse. Background marrow signal is normal without infiltrative marrow process. No aggressive osseous lesions.
+
+JOINT SPACE:
+Small joint effusion. No intra-articular bodies. Trace Baker's cyst.
+
+MEDIAL COMPARTMENT:
+Medial meniscus: Complete radial tear of the posterior root of medial meniscus with mild extrusion.
+Medial compartment cartilage: High-grade cartilage fissuring along the posterior weightbearing medial femoral condyle. Mild marginal spurring at the medial joint line.
+
+LATERAL COMPARTMENT:
+Lateral meniscus: Partial inner margin radial tear at the anterior horn/body junction of the lateral meniscus without extrusion.
+Lateral compartment cartilage: Low-grade cartilage fissuring spanning the weightbearing lateral femoral condyle. High-grade cartilage fissuring along the posterior lateral tibial plateau.
+
+PATELLOFEMORAL COMPARTMENT:
+Patellofemoral compartment cartilage: Low-grade cartilage fissuring along the central trochlea. Mild cartilage thinning along the medial patellar facet with mild subchondral cystic change.
+
+CRUCIATE LIGAMENTS:
+Anterior cruciate ligament (ACL): Normal with both bundles intact.
+Posterior cruciate ligament (PCL): Normal.
+
+COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
+Medial collateral ligament (MCL): Normal.
+Lateral collateral ligament (LCL) complex: Normal.
+Posterolateral corner structures: Normal.
+
+EXTENSOR MECHANISM:
+Distal quadriceps tendon: No tendinosis or tear.
+Patella tendon: Mild patellar tendinosis. No tendon tear.
+Medial patellofemoral ligament (MPFL) and patellar retinacula: Normal.
+Patellofemoral tracking: No edema in superolateral Hoffa's fat pad. No lateral patellar tilt or translation. No patella alta. Normal patellar and trochlear morphology. Normal tibial tubercle-trochlear groove (TT-TG) distance measuring 7 mm.
+
+MUSCLES/TENDONS:
+No acute muscle strain or muscle atrophy. Visualized tendons not previously discussed are intact without tendinosis or tear.
+
+SOFT TISSUES:
+Nonspecific prepatellar and scattered subcutaneous edema about the knee. No soft tissue mass. Normal popliteal neurovascular bundle.
+
+IMPRESSION:
+1.	Subchondral insufficiency fracture at the medial margin of the medial tibial plateau without articular surface collapse.
+2.	Medial and lateral meniscus tears as described.
+3.	Tricompartmental chondrosis.
+4.	Small knee effusion.
+5.	Mild patellar tendinosis without tear.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 10/58 [UID: 1.2.826.0.1.3680043.8.498.11915937982684988073644209606907169581] ---
+POS: ['Lateral Meniscus', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's"]
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Medial OA', 'Contusion', 'Fracture']
+REPORT TEXT:
+FINDINGS:
+
+Fluid:
+Small joint effusion with synovial thickening compatible with synovitis. There is popliteal cyst measuring 21 x 17 x 35 mm. Small amount of edema along the inferior margin of the popliteal cyst suggesting a minimal partial rupture.
+
+Medial compartment (meniscus, collateral ligament, cartilage):
+There is increased T2 hyperintense signal within the posterior horn of the medial meniscus extending into the posterior horn-body junction without extension to the articular surface, compatible with intrasubstance degeneration. No frank tear.
+
+Mild thickening of the proximal fibers of the medial cruciate ligament, with mild edema, compatible with grade 1 sprain. No frank tear.
+
+Moderate thinning of the articular cartilage of the weightbearing femur and tibia.
+
+Lateral compartment (meniscus, collateral ligament complex, cartilage):
+There is a complex degenerative tear of the lateral meniscus with partial maceration of the anterior horn and anterior body, as well as a longitudinal oblique component involving the posterior horn. There is a 4 mm small displaced fragment along the lateral tibial gutter.
+
+Full-thickness fissures in the articular cartilage of the tibial weightbearing surface with associated subchondral bone marrow edema. There is moderate thinning of the articular cartilage of the weightbearing femur and of the tibial plateau. No subchondral bone marrow edema at the femur.
+
+Mild increased signal intensity at the distal iliotibial band. The lateral collateral ligament complex is otherwise unremarkable.
+
+Intercondylar compartment (anterior and posterior cruciate ligaments):
+The anterior and posterior cruciate ligaments are unremarkable. Mild early intraosseous cystic changes at the tibial insertion of the anterior cruciate ligament.
+
+Anterior compartment (extensor mechanism, cartilage, Hoffa's fat pad):
+Multifocal deep and delaminating fissuring of the articular cartilage of the patellar facet without associated subchondral bone marrow edema. Additionally, there is moderate thinning of the articular cartilage of the femoral trochlea without subchondral bone marrow edema.
+Mild distal quadriceps tendinosis with mild edema in the suprapatellar fat pad.
+Mild patellar tendinosis.
+
+Bones:
+Normal.
+
+Muscles and neurovascular structures:
+Normal.
+
+Other findings:
+Nonspecific edema in the anterior subcutaneous tissues along the infrapatellar region.
+
+Small amount of fluid in the pes anserine bursa.
+
+CONCLUSION:
+
+- Tricompartmental moderate chondral thinning with deep fissures at the lateral and patellofemoral compartments, as described above.
+- Complex degenerative tear of the lateral meniscus with tiny displaced fragment.
+- Low-grade sprain of the medial collateral ligament.
+- Small joint effusion with synovitis.
+- Moderate-sized popliteal cyst with minimal partial rupture.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 11/58 [UID: 1.2.826.0.1.3680043.8.498.12448079646359892252441208258836556945] ---
+POS: ['PF OA', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'Effusion', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Técnica: RMN de la rodilla. Resultados: Fricción de la banda iliotibial. Síndrome de pinzamiento de la almohadilla grasa de Hoffa. Condropatía rotuliana. Impresión: Fricción de la banda iliotibial. Síndrome de pinzamiento de la almohadilla grasa de Hoffa. Condropatía rotuliana.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 12/58 [UID: 1.2.826.0.1.3680043.8.498.12505035424093604269515328931488770819] ---
+POS: ['ACL', 'MCL', 'Lateral Meniscus', 'Effusion', 'Fracture']
+NEG: ['Medial Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion']
+REPORT TEXT:
+Técnica: RMN de la rodilla. Resultados: Rotura del LCA. Rotura parcial del LCM. Rotura de menisco interno y lateral. Derrame. Contusiones óseas femorotibiales. Impresión: Rotura del LCA. Rotura parcial del LCM. Rotura de menisco interno y lateral. Derrame. Contusiones óseas femorotibiales.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 13/58 [UID: 1.2.826.0.1.3680043.8.498.12606657226568558340797193167488111973] ---
+POS: ['ACL', 'MCL', 'Lateral Meniscus']
+NEG: ['Medial Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+In the medial compartment, the meniscus is not torn and there is no focal chondrosis or chondral injury. 
+ The lateral compartment, there is longitudinal vertical oblique tear at the posterior horn of the lateral meniscus. There is no focal chondrosis or chondral injury. 
+ The patellofemoral joint, the patellar and trochlear cartilage appears congruent without chondral lesion. The medial patellofemoral ligament is intact.  
+ In the intercondylar notch, there is complete tear of the anterior cruciate ligament, at mid substance. The posterior cruciate ligament is intact.  
+ There is grade II ligamentous sprain (partial tear) of the medial collateral ligament. The posteromedial oblique ligament is intact. The lateral collateral ligament complexes are intact. The extensor mechanism is normal.  
+ No knee effusion is present. The surrounding musculature is normal. There is no fracture or bone contusion. - Longitudinal vertical oblique tear at the posterior horn of the lateral meniscus. 
+ - Complete tear of the anterior cruciate ligament, at mid substance. 
+ - Grade II ligamentous sprain (partial tear) of the medial collateral ligament.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 14/58 [UID: 1.2.826.0.1.3680043.8.498.12801308844398614687904447633432197492] ---
+POS: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion']
+NEG: ['ACL', 'MCL', 'Lateral OA', 'PF OA', 'Fracture']
+REPORT TEXT:
+ΤΕΧΝΙΚΗ Η εξέταση έγινε µε ακολουθίες παλµών Τ1, πυκνότητας πρωτονίων µε καταστολή του σήµατος του λίπους και Τ2 βαθµιδωτής ηχούς. ΕΥΡΗΜΑΤΑ - Στο έσω διαµέρισµα παρατηρείται εκφυλιστική ρήξη στο οπίσθιο κέρας και σώµα του µηνίσκου. Επιπλέον παρατηρείται ήπιο οστεοµυελικό οίδηµα και πλήρης εξάλειψη του αρθρικού χόνδρου (ICRS Grade IV) στον έσω κνηµιαίο κόνδυλο, ενώ συνυπάρχουν µικρής έκτασης επιχείλια οστεόφυτα στον µηριαίο και κνηµιαίο κόνδυλο. - Από τον έλεγχο του έξω διαµερίσµατος παρατηρείται ήπιο οστεοµυελικό οίδηµα στον έξω κνηµιαίο κόνδυλο. - Από τον έλεγχο του πρόσθιου διαµερίσµατος δεν σηµειώνονται παθολογικά ευρήµατα. - Φυσιολογικά απεικονίζονται οι πλάγιοι και χιαστοί σύνδεσµοί. - Παρατηρείται µέτρια ποσότητα υγρού ενδαρθρικά που συνέχεται µε ευµεγέθη πολύχωρη συνοβιακή κύστη Baker κεφαλουραίας διαµέτρου 9,7εκ παρά την έσω κεφαλή του γαστροκνηµίου µυός. Συµπέρασµα 1. Εκφυλιστική οστεοαρθρίτιδα και εκφυλισττική ρήξη του µηνίσκου στο έσω διαµέρισµα. 2. Μικροδοκιδώδη κατάγµατα ανεπάρκειας (συνώνυµο SONK) έσω κνηµιαιίου και σε µικρότερη έκταση πρόσθιου έξω κνηµιαίου κονδύλου. ∆εν παρατηρείται καθίζηση της αρθρικής επιφάνειας.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 15/58 [UID: 1.2.826.0.1.3680043.8.498.12978510157202852202776899910529174803] ---
+POS: ['Fracture']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion']
+REPORT TEXT:
+МР находка: МР данни за фрактура на тибията в областта на интеркондиларните еминенции. Фрактурата е без данни за значима дислокация. Визуализира се контузионен костномозъчен едем в тибията срединно и към медиалното тибиално плато. Минимален субхондрален едем се изобразява и по медиалната повърхност на пателата. Хрущялът, покриващ ставните повърхности на костите е съхранен. Кръстните връзки са със запазена цялост. Нормално представени менискуси. Хрущял на пателата, ретинакулуми – нормално представени. Insall-Salvati ratio – 1,3. Нормално изобразяване на сухожилието на пателата и на м. квадрицепс феморис. Наличие на минимален ставен излив. Заключение:  МР данни за фрактура на тибията в областта на интеркондиларните еминенции, без значима дислокация. Контузионен костномозъчен едем. Минимален ставен излив.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 16/58 [UID: 1.2.826.0.1.3680043.8.498.13267780356245120052411517053322874891] ---
+POS: ['Lateral Meniscus', 'Fracture']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion']
+REPORT TEXT:
+> MRI of knee was performed in sagittal, axial and coronal sections.
+> Spin echo sequence were used.
+
+> Split fractures at tibial plateau with depression of the lateral articular surface and extending to tibial intercondylar region
+> Bone contusion with neglected fracture line at fibular head.
+> The contour of ACL is not all in a straight line but increase signal intensity inside, in favor of grade 2 injury.
+> The contour of PCL appears to be within normal, no abnormal signal intensity is noted.
+> There are linear signal intensity in anterior horn of medial meniscus, it extends into the surface, in favor of tear.
+> Medial meniscus appears to be normal.
+> Both medial & lateral collateral ligaments appear to be within normal.
+> Some joint effusion
+
+Impression: 
+1. C/W Tibia plateau fracutre and fibular head fracture with bone contusion.
+2. Grade 2 injury of anterior cruciate ligament.
+3. Tear of anterior horn of lateral meniscus.
+Suggest correlation with clinical manifestation
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 17/58 [UID: 1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903] ---
+POS: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's"]
+NEG: ['MCL', 'Contusion', 'Fracture']
+REPORT TEXT:
+[DATE]: MR Knie Rechts 15ch AA: Klinische inlichtingen: Zie gescande aanvraag Diagnostische vraagstelling: Zie gescande aanvraag Bevindingen: Gevorderd lateraal femorotibiaal kraakbeenlijden met volledig kraakbeenverlies anterieur, centrale en posterieure dragende deel en van het laterale tibiaplateau, gepaard gaand met marginale osteofytose, beperkte subchondrale botveranderingen. Degeneratief voorkomen laterale meniscus met opzetting van het corpus, die zich bevindt buiten de gewrichtsspleet . Verder opzetting van suprapatellaire recessus, met talrijke verdikkingen van van het synovium, nodulair beginnend tot matig femoropatellair kraakbeenlijden met meerdere fissuren. Matig mediaal femorotibiaal kraakbeenlijden, met quasi volledig kraakbeenverlies dragende deel mediale femorale condyl, uitgebreide marginale osteofytose,. Gevorderde muco ïde degeneratie van de voorste kruisband, met opgezet voorkomen en gestegen T2-signaal . Popliteale cyste, met beperkte vochtinfiltratie oppervlakkig aan de musculus gastrocnemius medialis . Besluit: Gevorderde gonartrose van de rechterknie, op heden met hydrops, chronische synovitis, gevorderde muco ïde degeneratie voorste kruisband, recente scheur van popliteale cyste , echter zonder significant botoedeem .
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 18/58 [UID: 1.2.826.0.1.3680043.8.498.15593638897292057356864060466120253309] ---
+POS: ['Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Effusion', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Antecedentes Clínicos:
+Gonalgia izquierda.
+Hallazgos:
+No hay alteraciones de señal significativas de la médula ósea.
+Transformación quística parcial del tercio proximal del LCA. LCP y ligamentos colaterales dentro de límites
+normales.
+Aumento de señal central del cuerno posterior y cuerpo del menisco medial que contacta la superficie
+articular inferior sugieran una rotura.
+Rotura del cuerno anterior, cuerpo y cuerno posterior del menisco lateral con mínima extrusión. Esto se
+asocia a edema las partes blandas regionales.
+Úlceras condrales de espesor parcial y total de la región central de la zona de carga del cóndilo femoral
+medial. Úlceras condrales espesor parcial de la región central del platillo tibial lateral. Condropatía
+superficial del resto de los cartílagos femorotibiales y de la tróclea femoral.
+Úlceras condrales de espesor total de distribución difusa de la rótula.
+Leve derrame articular con discreta sinovitis. No hay quistes poplíteos.
+Tendones cuadricipital, rotuliano, tendones de la pata de ganso, bíceps femoral y banda iliotibial dentro de
+límites normales.
+Impresión:
+Signos de una rotura del menisco medial, no desplazada.
+Rotura compleja del cuerno anterior, cuerpo y cuerno posterior del menisco lateral con mínima extrusión y
+edema de las partes blandas regionales.
+Condropatía lesiones grado 3 de la región central de la zona de carga del cóndilo femoral medial y del
+platillo tibial lateral.
+Condropatía superficial del resto de los compartimentos femorotibiales.
+Condropatía lesiones grado 2 y 3 de la rótula.
+Leve derrame articular con discreta sinovitis difusa.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 19/58 [UID: 1.2.826.0.1.3680043.8.498.16060119389060497136231217718921482192] ---
+POS: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Fracture']
+NEG: ['ACL', 'MCL', 'Contusion']
+REPORT TEXT:
+Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Insufficient fracture of medial femoral condyl with adjacent bone marrow oedema. Conclusion: Medial meniscus tear. Lateral meniscus tear. Incipient OA of all three compartmens.  Baker's cyst present. Large effusion. Medial condyl fracture.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 20/58 [UID: 1.2.826.0.1.3680043.8.498.17844546765907321649997094867791102711] ---
+POS: ['ACL', 'Effusion', 'Fracture']
+NEG: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion']
+REPORT TEXT:
+Diz eklemi içi sıvı miktarı hafif derecede artmış. Lateral femoral kondilin ağırlık taşıyan yüzeyinin anteriyor yarısındaki subkondral kırığı kemik iliği ödemi çevreliyor. Tibyal plato posterolateral köşesinde pivot kayması ile ilintili kemik kontüzyonu mevcut. Ön çapraz bağdaki laksite artışı ve ödem yüksek olasılıkla tam kat-tam kata yakın yırtık ile birlikte. Posteriyor oblik ve oblik popliteal bağlar ödemli ancak menisküs yırtığı eşlik etmiyor. Posteriyor medyal köşe yapıları bunların dışında korunmuş. Arka çapraz ve yan bağlar normal. Posterolateral köşe yapıları korunmuş. Medyal menisküs ve lateral menisküs normal. Eklem kıkırdakları ve kemikler bunların dışında normal. Ekstensör mekanizma korunmuş (kuadriseps tendonu ve patellar tendon, patella ve yerleşimi, femoral troklear oluk ve patellofemoral bağlar normal).
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 21/58 [UID: 1.2.826.0.1.3680043.8.498.18392509497170616983977319528036573378] ---
+POS: ['ACL', 'Medial Meniscus', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's"]
+REPORT TEXT:
+SOL DİZ MRG. Tetkik protokolü: Çok düzlemli, çok sekanslı. Bulgular: Medial ve lateral  menisküs posterior hornu ve gövde kesiminde grade II dejenerasyon izlenmiştir.Arka çapraz bağ, lateral kollateral ligaman normaldir.Anterior çapraz bağda komplet rüptüre sekonder bütünlük kaybı izlenmiştir. Medial kollateral ligamende incelme ve periligamentöz ödem izlenmiştir. Distal kuadriseps ve patellar tendonlar normaldir. Patella normal yerleşimlidir. Retinaküler devamsızlık yoktur.Suprapatellar bursa ve diz eklem mesafesinde sıvı artışı izlenmiştir.Femur lateral kondilde subartiküler nondeplase fraktür ve komşu kemik iliğinde ödem izlenmiştir.Tibia lateral plato posteriorunda fibula başında kontüzyonel kemik iliği ödemleri izlenmektedir.Tibianın tibiafemoral eklemden hafif anteriora doğru subluksasyonu izlenmiştir.Soleus kası proksimal kesimde kas dokuda STIR sekans ödeme bağlı sinyal artışı, kas basısında sıvı artışı mevcuttur.SONUÇ:Anterior çapraz bağ komplet rüptürü.Tibia ve femurda kissing kontüzyon ve femurda subartiküler fraktür.Tibianın anteriora hafif subluksasyonu.Medial ve lateral menisküste grade II meniskopati.Medial kollateral ligamanda grade I sprain.Suprapatellar bursit, diz ekleminde hafif sinovit.Soleus kasında grade I strain .
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 22/58 [UID: 1.2.826.0.1.3680043.8.498.22109739962224309418874538994436903404] ---
+POS: ['Lateral Meniscus', 'Medial OA', 'Lateral OA', "Baker's"]
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'PF OA', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+REPORT TEXT:
+Exam Type: MRI KNEE LEFT WO CONTRAST
+Exam Date and Time: [DATE] [TIME]
+Indication: Pain.
+Comparison: [REDACTED].
+
+TECHNIQUE:
+MRI of the lumbar knee was performed on a 3.0 Tesla system with a dedicated knee coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.
+
+FINDINGS:
+OSSEOUS STRUCTURES:
+Minimal degenerative subchondral bone marrow edema is present at the lateral tibiofemoral compartment related to overlying chondrosis. No acute fracture or bone bruise. Background marrow signal is normal without infiltrative marrow process. No aggressive osseous lesions.
+
+JOINT SPACE:
+Small joint effusion. No intra-articular bodies. Moderate-sized Baker cyst with slight surrounding edema likely representing leakage.
+
+There are postoperative changes anteriorly consistent with previous arthroscopic surgery.
+
+MEDIAL COMPARTMENT:
+Medial meniscus: Normal in morphology and signal.
+Medial compartment cartilage: Cartilage appears intact.
+
+LATERAL COMPARTMENT:
+Lateral meniscus: There is a diminutive appearance of the body and posterior horn consistent with previous partial meniscectomy. There is irregularity of the inner margin diffusely consistent with recurrent tear. There is moderate extrusion.
+Lateral compartment cartilage: Mild cartilage thinning and fissuring is present at the posterior and peripheral weightbearing aspect, with minimal degenerative subchondral bone marrow edema.
+
+PATELLOFEMORAL COMPARTMENT:
+Patellofemoral compartment cartilage: There is mild cartilage thinning and surface irregularity at the patella and trochlea, medial greater than lateral.
+
+CRUCIATE LIGAMENTS:
+Anterior cruciate ligament (ACL): Normal with both bundles intact.
+Posterior cruciate ligament (PCL): Normal.
+
+COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
+Medial collateral ligament (MCL): Normal.
+Lateral collateral ligament (LCL) complex: Normal.
+Posterolateral corner structures: Normal.
+
+EXTENSOR MECHANISM:
+Distal quadriceps tendon: Mild tendinosis with diffuse thickening.
+Patella tendon: Moderate tendinosis with diffuse thickening.
+Medial patellofemoral ligament (MPFL) and patellar retinacula: Normal.
+Patellofemoral tracking: No edema in superolateral Hoffa's fat pad. No lateral patellar tilt or translation. No patella alta. Normal patellar and trochlear morphology. Normal tibial tubercle-trochlear groove (TT-TG) distance measuring 14 mm.
+
+A thickened medial patellar plica is present, extending into the patellofemoral compartment.
+
+MUSCLES/TENDONS:
+No acute muscle strain or muscle atrophy. Visualized tendons not previously discussed are intact without tendinosis or tear.
+
+SOFT TISSUES:
+No soft tissue mass. Normal popliteal neurovascular bundle.
+
+[REDACTED]. Lateral compartment chondrosis appears new or increased. Otherwise, no significant interval change.
+
+IMPRESSION:
+
+1. Previous partial lateral meniscectomy with recurrent tear.
+2. Chondrosis in the patellofemoral and lateral tibiofemoral compartment.
+3. Quadriceps and patellar tendinosis.
+4. Thickened medial patellar plica.
+5. Small joint effusion. Moderate Baker cyst with evidence of leakage.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 23/58 [UID: 1.2.826.0.1.3680043.8.498.25695966186129395049687747156570466645] ---
+POS: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Effusion', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Lateral OA', 'PF OA', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+MRI ∆ΕΞΙΟΥ ΓΟΝΑΤΟΣ ΤΕΧΝΙΚΗ Η εξέταση έγινε µε ακολουθίες παλµών Τ1, Τ2 βαθµιδωτής ηχούς και πυκνότητας πρωτονίων µε καταστολή του σήµατος του λίπους. ΕΥΡΗΜΑΤΑ Από τον έλεγχο των χιαστών και πλαγίων συνδέσµων δεν παρατηρούνται αξιόλογα ευρήµατα. Απλή εκφύλιση παρατηρείται στον έξω µηνίσκο. Εκφύλιση και ήπιο υπεξάρθρηµα παρατηρείται στον έσω µηνίσκο. Στο έσω διαµέρισµα παρατηρούνται επιπλέον ήπιο υπαρθρικό οστεοµυελικό οίδηµα στον έσω µηριαίο κόνδυλο και εστιακή διάβρωση του αρθρικού χόνδρου του έσω µηριαίου κονδύλου στον άξονα φόρτισης (ICRS grade II). Μόλις αναγνωρίζεται οστεοµυελικό οίδηµα στην άπω επίφυση του µηριαίου οστού και στην εγγύς επίφυση της κνήµης. Συλλογή υγρού παρατηρείται ενδαρθρικά µε κατά τόπους πάχυνση του υµένα. Από τον έλεγχο του εκτατικού µηχανισµού δεν παρατηρούνται αξιόλογα ευρήµατα. Συµπέρασµα: Ευρήµατα αρχόµενης εκφυλιστικής οστεοαρθρίτιδας κατά το έσω διαµέρισµα. Λόγω της ήπιας υµενίτιδας συνιστάται ρευµατολογικός έλεγχος για διερεύνηση πιθανής υποκείµενης φλεγµονώδους αρθρίτιδας. Το µόλις αναγνωρίσιµο οστεοµυελικό οίδηµα στις επιφύσεις περιαρθρικά, θα µπορούσε να αποδοθεί σε αρχόµενο µικροδοκιδώδες κάταγµα ανεπάρκειας χωρίς καθίζηση της αρθρικής επιφάνειας. 
+
+[BILATERAL NOTE: two reports filed under this study]
+
+MRI ∆ΕΞΙΟΥ ΓΟΝΑΤΟΣ ΤΕΧΝΙΚΗ Η εξέταση έγινε µε ακολουθίες παλµών Τ1, πυκνότητας πρωτονίων µε καταστολή του σήµατος του λίπους και Τ2 βαθµιδωτής ηχούς. ΕΥΡΗΜΑΤΑ Από τον έλεγχο των χιαστών και πλαγίων συνδέσµων, του έσω µηνίσκου, του οστικού µυελού και του αρθρικού χόνδρου δεν παρατηρούνται αξιόλογα ευρήµατα. Ο έξω µηνίσκος έχει δισκοειδή µορφολογία. Από τον έλεγχο του εκτατικού µηχανισµού παρατηρείται ευµεγέθης συγγενώς κάτω πόλος της επιγονατίδας (elongated patella) καθώς επίσης και οίδηµα του υπερεπιγονατιδικού λιπώδους σώµατος που συνηγορεί για πρόσκρουση του τετρακεφάλου τένοντα επί του µηριαίου οστού. Μικρή συλλογή υγρού παρατηρείται ενδαρθρικά σε επικοινωνία µε µικρή συνοβιακή κύστη Baker.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 24/58 [UID: 1.2.826.0.1.3680043.8.498.26790702379506190936834447203448882465] ---
+POS: ['ACL', 'Contusion']
+NEG: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Fracture']
+REPORT TEXT:
+There is a mild knee effusion. Normal medial and lateral menisci. No evidence of tears.  ACL is ruptured in its mid substance. There is mild residual bone contusion in the weightbearing aspect of the lateral femoral condyle and posterior aspect of the lateral tibial condyle. Mild anterior translation of the lateral tibial plateau is seen in relation to femur.  Normal PCL, MCL and LCL. Normal extensor mechanism.  The tibiofemoral and patellofemoral articular cartilage is normal. Normal visualized remaining bones and surrounding soft tissues.  Conclusion: ACL rupture.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 25/58 [UID: 1.2.826.0.1.3680043.8.498.27437263843446879932281897446100134924] ---
+POS: ['Medial Meniscus']
+NEG: ['ACL', 'MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Technique: MRI of the knee. ACL normal.  MCL normal. Medial meniscus tear. Lateral meniscus normal.  Cartilages normal. No baker's cyst. No effusion. Conclusion: Medial meniscus tear.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 26/58 [UID: 1.2.826.0.1.3680043.8.498.28925345859498351203477642741908452608] ---
+POS: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'PF OA', "Baker's"]
+NEG: ['ACL', 'MCL', 'Lateral OA', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+REPORT TEXT:
+SAĞ DİZ MRG. Tetkik protokolü: Çok düzlemli, çok sekanslı. Bulgular: Lateral menisküs normal. Medial menisküs ekstrüde görünümde olup posterior hornunda yırtık ile uyumlu sinyal değişiklikleri mevcuttur. Arka çapraz bağ, çm çapraz bağ , lateral ve medial kollateral ligaman normaldir.Medial kollateral ligaman çevresinde sıvı artışı izlenmiştir. Distal kuadriseps ve patellar tendonlar normaldir. Patella normal yerleşimlidir. Retinaküler devamsızlık yoktur.Suprapatellar bursada sıvı artışı izlenmiştir. Tibia proksimali ve femur distal epikondil seviyesi medialde kemik iliği ödemi ile uyumlu görünümler mevcuttur. Bu düzeyde eklem aralığı belirgin daralmıştır.Popliteal fossada 54x15 mm çapta Baker kisti ile uyumlu görünüm mevcuttur.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 27/58 [UID: 1.2.826.0.1.3680043.8.498.29764868091238287072166823522853419550] ---
+POS: ['ACL', 'Contusion', 'Fracture']
+NEG: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's"]
+REPORT TEXT:
+No evidence of knee effusion. Normal medial and lateral menisci. No evidence of tears.  ACL is ruptured. There is mild anterior translation of the lateral tibial plateau in relation to femur.  Normal PCL, MCL and LCL. Normal extensor mechanism.  The tibiofemoral and patellofemoral articular cartilage is normal. A bone contusion is noted in the posterolateral corner of the lateral tibial plateau.  
+Conclusion: Mild effusion. ACL rupture. Posterolateral tibial contusion.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 28/58 [UID: 1.2.826.0.1.3680043.8.498.30246079718471552972130572444383079911] ---
+POS: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+NEG: ['MCL', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's"]
+REPORT TEXT:
+SAĞ DİZ MRG. Tetkik protokolü: Çok düzlemli, çok sekanslı. Bulgular: Medial menisküste grade II dejenerasyon, radial yırtık ile uyumlu görünüm mevcuttur. Lateral menisküste grade II dejenerasyon, kova sapı yırtığı ile uyumlu görünüm mevcuttur. Arka çaprazda fokal sinyal artışları mevcuttur. Ön çapraz bağ devamlılığı seçilememiştir (komplet yırtık). Lateral ve medial kollateral ligamanlar çevresinde hafif ödematöz görünüm (grade I sprain) izlenmiştir. Distal kuadriseps ve patellar tendon normaldir. Retinaküler devamsızlık yoktur. Patella normal yerleşimlidir.İnfrapatellar yağ yastıkçığında ödematöz görünüm izlenmiştir.Suprapatellar bursada ve diz eklemi içerisinde yaygın sıvı artışı izlenmiştir. Femur lateral kondil ve tibia lateral plato seviyesinde yaygın kontüzyonel kemik iliği ödemleri izlenmiştir. Ayrıca fibula baş düzeyinde subkondral ve patellar kemik medullada kemik iliği ödemleri izlendi.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 29/58 [UID: 1.2.826.0.1.3680043.8.498.32321830776739689645700555055955725945] ---
+POS: ['ACL', 'MCL', 'PF OA', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+NEG: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', "Baker's"]
+REPORT TEXT:
+ΜΑΓΝΗΤΙΚΗ ΤΟΜΟΓΡΑΦΙΑ ∆ΕΞΙΟΥ ΓΟΝΑΤΟΣ Τεχνική: Η εξέταση έγινε µε ακολουθίες παλµών Τ1, PD fs και Τ2*. Ευρήµατα: - Εκτεταµένο οίδηµα του οστικού µυελού στην εγγύς µετάφυση/επίφυση της κνήµης παριστά οστικό µώλωπα στο πλαίσιο της αναφερόµενης κάκωσης. - Οιδηµατώδης απεικόνιση του πρόσθιου χιαστού συνδέσµου µε ασυνέχεια των ινών του στο πλαίσιο υφολικής (σχεδόν πλήρους) ρήξης. - Οιδηµατώδης απεικόνιση και ασυνέχεια στην εγγύς µοίρα του έσω πλαγίου συνδέσµου µε παρουσία οιδήµατος πέριξ στο πλαίσιο µερικής ρήξης (grade 2). - Ικανή ποσότητα ενθαρθρικής συλλογής υγρού. - Συλλογή υγρού προεπιγονατιδικά στο πλαίσιο προεπιγονατιδικής ορογονοθυλακίτιδας. - Εκφύλιση παρατηρείται στο οπίσθιο κέρας του έσω µηνίσκου. - Λέπτυνση και ανωµαλία παρυφής του αρθρικού χόνδρου ιδίως στο έσω µεσάρθριο και στον έσω αρθρικό χόνδρο της επιγονατίδας στο πλαίσιο αρχόµενης οστεοαρθρίτιδας. - Από τον έλεγχο του εκτατικού µηχανισµού και του λοιπού αρθρικού χόνδρου δεν παρατηρούνται αξιόλογα ευρήµατα.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 30/58 [UID: 1.2.826.0.1.3680043.8.498.37040910196459054543310335064167212742] ---
+POS: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+NEG: ['MCL', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's"]
+REPORT TEXT:
+MRI of Knee with 
+-3-Plane Loc, Sag PD FS, Sag T2 FS, Sag T1, Cor T2 FS, Screen Save, Ax T2 FS
+
+
+
+* The contour of ACL is not in a straight line and increased signal intensity inside on F/S T2WI, in favor of tear.
+* High signal in the soft tissue medial to the medial collateral ligament with increased signal intensity of proximal ligament (deep MCL/meniscofemoral ligament), in favor of grade 2 injury.
+* High signal in the soft tissue surrounding the medial and lateral patellar retinaculum, in favor of grade 1 injury.
+* Linear signal intensity in the body and posterior horn of medial meniscus with extension to the surface, in favor of tear.
+* There is a gap in the posterior horn of lateral meniscus near the posterior root (Sr/Im: [ID]; [ID].
+* Bone marrow edema in distal femur, proximal tibia and fibula, and lower pole of patella, suspect bone contusion.
+    A subchondral linear hypointensity over posterior aspect of medial tibial plateau on T1WI and F/S T2WI, without associated contour deformity (Sr/Im: [ID]; [ID].
+* Joint effusion and suprapatellar bursitis with suprapatellar and medial plicae; hypertrophy of the synovium, indicative of synovitis.
+* Irregular contour of the posterior joint capsule with interstitial high signal intensity, suspect joint capsular injury/tear.
+* Subcutaneous edema in distal thigh to proximal leg and intermuscular edema in the popliteal fossa.
+
+Impression:
+1. ACL tear.
+2. Grade 2 injury of MCL (especially at the deep MCL/meniscofemoral ligament). 
+     Suspect grade 1 injury of medial and lateral patellar retinaculum.
+3. Meniscal tear in the body and posterior horn of medial meniscus; suspect posterior root tear of lateral meniscus.
+4. Bone contusion in distal femur, proximal tibia and fibula, and lower pole of patella.
+     Subchondral fracture over posterior aspect of medial tibial plateau (Sr/Im: [ID]; [ID].
+5. Synovitis of left knee with suprapatellar bursitis and patellar plicae.
+6. Irregular contour of the posterior joint capsule, suspect joint capsular injury/tear.
+7. Subcutaneous edema in distal thigh to proximal leg and intermuscular edema in the popliteal fossa.
+
+Suggest correlated with clinical manifestation and further management.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 31/58 [UID: 1.2.826.0.1.3680043.8.498.37392127307867238524251864751713143683] ---
+POS: ['Contusion', 'Fracture']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's"]
+REPORT TEXT:
+Patella alta (Insall-Salvati omjer 1,5), Wiberg tip III.
+Iregularna, blago udubljena medijalna kontura patele u području apeksa, moguće u sklopu
+impresijske frakture. Opsežan okolni koštani edem.
+U području lateralnog kondila femura anteriorno od hvatišta tetive m. popliteus nalazi se
+također udubljena kontura kosti na arealu oko 9 mm u promjeru, opisano može odgovarati
+impresijskoj frakturi. Opsežan okolni koštani edem.
+Zadebljanje i edem medijalnog patelarnog retinakuluma uz prekid kontinuiteta vlakana u
+središnjem dijelu u sklopu rupture. Manja količina izljeva suprapatelarno i u medijalnom recesusu
+uz naglašeniji suprapatelarni masni jastučić.
+Opisane promjene najvjerojatnije posljedično lateralnoj dislokaciji patele.
+Manja inzula kompakte u lateralnom kondilu femura i tibije.
+Hondromalacične promjene 1. stupnja hrskavice medijalne fasete patele.
+Lateralni patelarni retinakulum održan.
+Početne entezopatske promjene hvatišta tetive m. quadriceps te patelarnog hvatišta
+patelarnog ligamenta.
+Kompletna suprapatelarna plika.
+Prednji križni ligament je nešto viših intenziteta signala pri tibijalnom hvatištu, moguće stanje
+nakon distenzije ili manje parcijalne rupture.
+Stražnji križni ligament je primjerenih intenziteta signala, održanog kontinuiteta.
+Linearni hiperintenzitet crvene zone stražnjeg roga medijalnog meniska koji može odgovarati
+vaskularnoj strukturi, bez evidentne rupture.
+Lateralni menisk je primjerenih intenziteta signala, bez znakova rupture.
+Medijalni kolateralni ligament je primjerenih intenziteta signala, održanog kontinuiteta.
+Entezopatske promjene proksimalnog hvatišta lateralnog kolateralnog ligamenta.
+Entezopatske promjene i manji burzitis tetive m. popliteus.
+Primjeren izgled iliotibijalnog trakta i pes anserinus.
+Baker cista veličine oko 22x12x27 mm (APxLLxCC).
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 32/58 [UID: 1.2.826.0.1.3680043.8.498.39500553372517290823815606829518305500] ---
+POS: ['Lateral Meniscus', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Medial OA', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Antecedentes Clínicos:
+Artrosis.
+Hallazgos:
+Ligamentos cruzados y colaterales dentro de límites normales.
+El menisco medial es de morfología y señal conservada, sin criterios categóricos de rotura.
+Rotura compleja degenerativa del cuerno anterior, cuerpo, cuerno posterior y parte de la raíz
+meniscal posterior del menisco lateral con extrusión asociada. Edema óseo periférico posterior de
+platillo tibial lateral con pequeñas fracturas subcorticales regionales.
+Úlceras condrales de espesor parcial y total de la región posterior de carga del compartimento
+femorotibial lateral. Mínimos cambios óseos asociados. Condropatía superficial del compartimento
+femorotibial medial y del cartílago troclear.
+Úlceras condrales de espesor parcial y prácticamente total de la faceta lateral de la rótula.
+Leve a moderado derrame articular con mínima sinovitis. No hay quistes poplíteos patológicos.
+Tendones cuadricipital, rotuliano, tendones de la pata de ganso, bíceps femoral y banda iliotibial
+dentro de límites normales.
+Impresión:
+Rotura compleja degenerativa del cuerno anterior, cuerpo , cuerno posterior y raíz meniscal
+posterior del menisco lateral con extrusión asociada.
+Condropatía lesiones grado 3 y 4 del compartimento femorotibial lateral.
+Condropatía superficial del compartimento femorotibial medial y de la tróclea femoral. Condropatía
+lesiones grado dos y tres de la rótula.
+Leve a moderado derrame articular con mínima sinovitis
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 33/58 [UID: 1.2.826.0.1.3680043.8.498.41600498783384864111179175518614837125] ---
+POS: ['ACL', 'Medial Meniscus', 'Contusion']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Fracture']
+REPORT TEXT:
+In the medial compartment, there is buckethandle tear at the anterior horn, body and posterior horn of the medial meniscus. There is displaced meniscal fragment into the intercondylar notch. There is no focal chondrosis or chondral injury. 
+ The lateral compartment, there is suspicious small longitudinal vertical tear at the periphery posterior horn of the lateral meniscus. There is focal osteochondral injury a mid weightbaring lateral femoral condyle (about intact6* 1 cm). 
+ The patellofemoral joint, the patellar and trochlear cartilage appears congruent without chondral lesion. The medial patellofemoral ligament is intact  
+ In the intercondylar notch, there is acute complete tear of the anterior cruciate ligament, at mid substance. The posterior cruciate ligament is intact There is no anterior tibial translation. 
+ There is grade II ligamentous sprain (partial tear) of the medial collateral ligament, at mid substance (deep and superficial fibers). The posteromedial oblique ligament is intact  
+ The lateral collateral ligament complexes are intact The popliteofibular ligament is intact The meniscopopliteal fascicles are intact  
+ The extensor mechanism is normal.  
+ Minimal amount of right knee effusion is 1. The surrounding musculature is normal. There is bone contusion at the posterolateral tibial plateau.  Acute osteochondral injury a mid weightbaring lateral femoral condyle (about intact6* 1 cm) of right knee. 
+  Buckethandle tear of the medial meniscus. 
+  Suspicious small longitudinal vertical tear at the periphery posterior horn of the lateral meniscus. 
+  Acute complete tear of the anterior cruciate ligament, at mid substance. 
+  Grade II ligamentous sprain (partial tear) of the medial collateral ligament, at mid substance (deep and superficial fibers). 
+  Minimal amount of right knee effusion. 
+  Bone contusion at the posterolateral tibial plateau.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 34/58 [UID: 1.2.826.0.1.3680043.8.498.47921753480592595198052407850568677187] ---
+POS: ['Medial Meniscus', 'Effusion', 'Synovitis', 'Fracture']
+NEG: ['ACL', 'MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's", 'Contusion']
+REPORT TEXT:
+SOL DİZ MRG. Tetkik protokolü: Çok düzlemli, çok sekanslı. Bulgular: Medial menisküs posterior hornda grade III dejenerasyon ve horizontal yırtık izlendi. Medial menisküs mediale doğru ekstrude görünümdedir. Lateral menisküste grade I dejenerasyon izlendi. Ön çapraz bağda diffüz sinyal artışı izlendi(miksoid dejenerasyon). Arka çapraz bağda yer yer sinyal artışları izlendi(grade I sprain). Lateral kollateral ligaman normaldir.Medial kollateral ligamen  çevresinde ödematöz görünüm mevcuttur ( grade I sprain ).Suprapatellar bursada ,diz eklemi içerisinde yaygın sıvı artışı izlendi. Femur medial kondil  tibiofemoral eklem yüzüne bakan  düzeyde subartiküler fraktür hattı ve komşu kemikte yaygın ödem izlendi. Bu düzeyde eklem aralığı daralmıştır. Arka çapraz bağ tibia yapışma düzeyinde subkondrial milimetrik kistler izlendi.Diz eklemi prepatellar düzeyde cilt altı yağlı dokuda ödematöz görünüm mevcuttur.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 35/58 [UID: 1.2.826.0.1.3680043.8.498.48348615349418615469875801439348424274] ---
+POS: ['MCL']
+NEG: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Antecedentes Clínicos:
+Esguince del ligamento colateral medial.
+Hallazgos:
+No hay alteraciones de señal significativas de la médula ósea.
+Engrosamiento y aumento de señal con pérdida parcial de la continuidad del tercio medio proximal
+del componente superficial del ligamento colateral medial con edema de las partes blandas
+adyacentes. El resto de los componentes del complejo medial dentro de límites normales.
+El menisco lateral es de morfología y señal conservada, sin signos de rotura. Menisco medial de
+morfología conservada, con aumento de señal del meniscocapsular a su cuerno posterior.
+Cartílagos de los compartimentos femorotibiales y patelofemorales sin alteraciones.
+Leve derrame articular. Pequeño quiste poplíteo, sin signos de complicación.
+Cambios entesopáticos cuadricipitales distales. Tendón rotuliano, tendones de la pata de ganso,
+bíceps femoral y banda iliotibial dentro de límites normales.
+Impresión:
+Signos de un esguince grado II del componente superficial del ligamento colateral medial.
+Signos de aumento de señal meniscocapsular del cuerno posterior del menisco medial que podría
+representar una lesión parcial regional.
+Leve derrame articular. Pequeño quiste poplíteo.
+Cambios entesopáticos cuadricipitales distales
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 36/58 [UID: 1.2.826.0.1.3680043.8.498.48946580946665031852355005294734101132] ---
+POS: ['ACL', 'Effusion', 'Contusion']
+NEG: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Fracture']
+REPORT TEXT:
+COMPARISON:None.
+
+CLINICAL HISTORY:Left knee pain and swelling after fall. Medial joint line pain. Suspected bone contusion/meniscal tear.
+
+PROCEDURE:Multisequence, multiplanar unenhanced MRI of the left knee according to routine protocol.
+
+IMAGING FINDINGS:
+
+Nondiagnostic scout localizing images reviewed.
+
+The lateral meniscus is intact. The medial meniscus is intact.
+
+High-grade partial-thickness tear involving the anterior cruciate ligament near the femoral attachment. No anterior tibial translation. Osteochondral impaction injury posterior lateral tibial plateau and posterior medial tibial plateau without evidence of displacement and osteophyte fragment. The posterior cruciate ligament is intact.
+
+Low-grade partial-thickness tear involving the proximal fibers of the superficial and deep medial collateral ligament. The distal fibers are intact. The posterior oblique ligament is intact.
+
+The fibular collateral ligament is intact. Popliteus and biceps femoris tendon attachments are intact. The iliotibial band is intact.
+
+The patellar retinacula are intact. No femoral dysplasia. The TT-TG distance measures 12 minutes, within normal limits. The quadriceps and patellar tendons are intact.
+
+Scattered foci of mild chondrosis throughout the patellofemoral compartment. Preserved medial and lateral femorotibial articular cartilage.
+
+Small knee joint effusion. Regional musculature is within normal limits. No suspicious focal marrow signal alteration. 
+
+IMPRESSION:
+1. High-grade partial-thickness tear of the anterior cruciate ligament.
+2. Low-grade partial tear of the medial collateral ligament.
+3. Osteochondral impaction injuries posterior medial tibial plateau and posterior lateral tibial plateau without evidence of displaced or unstable osteochondral fragment.
+4. Mild patellofemoral chondrosis.
+5. Intact menisci.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 37/58 [UID: 1.2.826.0.1.3680043.8.498.54977581323931277817074741182670080450] ---
+POS: ['Lateral Meniscus']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Antecedentes Clínicos:
+Artrosis.
+Hallazgos:
+No hay alteraciones en significativas de la médula ósea.
+Ligamentos cruzados y colaterales dentro de límites normales.
+Aumento de señal central del cuerno posterior y cuerpo del menisco medial que no impresiona
+contactar con la superficie articular, sin caracteres propios de rotura.
+Rotura del cuerno anterior, cuerpo y parte del cuerno posterior del menisco lateral con edema las
+partes blandas perimeniscal es, quistes para meniscales y moderada extrusión meniscal.
+Úlceras condrales de espesor parcial y prácticamente total de la zona de carga del compartimento
+femorotibial lateral. Cartílagos del compartimento femorotibial medial y de la tróclea femoral sin
+alteraciones. Condropatía rotuliana superficial la faceta lateral.
+Leve derrame articular con mínima sinovitis.
+Tendones cuadricipital, rotuliano, tendones de la pata de ganso, bíceps femoral y banda iliotibial
+dentro de límites normales.
+Impresión:
+Rotura compleja del menisco lateral con extrusión asociada de quistes para meniscales.
+Condropatía lesiones grado 2 y 3 de la zona de carga del compartimento femorotibial lateral.
+Condropatía rotuliana superficial.
+Leve derrame articular con mínima sinovitis
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 38/58 [UID: 1.2.826.0.1.3680043.8.498.56512564464301544960446419143135447363] ---
+POS: ['Medial OA', 'PF OA', 'Effusion', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Lateral OA', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus mucoid degeneration. Lateral meniscus normal. OA of medial compartment. No baker's cyst. Effusion with synovitis. Conclusion: OA of medial compartment. Effusion with synovitis.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 39/58 [UID: 1.2.826.0.1.3680043.8.498.59483999067816153759785789654766826710] ---
+POS: ['ACL', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+NEG: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's"]
+REPORT TEXT:
+МР находка: МР данни за фрактура в областта на латералното тибиално плато, без дислокация. Наличие на костно-мозъчен едем около фрактурата. Контузионен костно-мозъчен едем се визуализира и в латералния феморален кондил. МР данни за руптура на предната кръстна връзка. На топичното място на връзката се вижда зона на патологично променен сигнален интензитет, съответстваща на дезорганизирани съединително-тъканни влакна, оток и кръв. Хеморагичен излив в ставата. МР данни за MPFL лезия – скъсване на медиалния поплите-феморален лигамент. Скъсването на лигамента е на залавното му към фемура място. Задна кръстна връзка – без особености.  Менискуси – без особености. Ставният хрущял е интактен. Сухожилие на м.квадрицепс феморис и лигамент на пателата – нормално изобразяване. Оток на меките тъкани около коляното.
+Заключение:  МР данни за фрактура без дислокация в областта на латералното тибиално плато. Скъсване на предната кръста връзка. MPFL лезия.  Ставен излив.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 40/58 [UID: 1.2.826.0.1.3680043.8.498.62465595376489211274225312453216559395] ---
+POS: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral OA', 'Effusion', 'Synovitis', 'Fracture']
+NEG: ['Lateral Meniscus', 'Medial OA', 'PF OA', "Baker's", 'Contusion']
+REPORT TEXT:
+MRI right knee
+
+INDICATION: Assess ligamentous injury
+
+There is a vertical tear in the periphery of the posterior horn of the medial meniscus. No lateral meniscal tear. Complete rupture of the ACL. Complete rupture of the PCL. Extensor mechanism intact. Complete rupture of the MCL at the level of the medial jointline. The proximal fibers are squiggly. IT band intact. High-grade partial tear of the proximal lateral collateral ligament. Mild sprain of the proximal popliteus tendon. Biceps femoris intact.
+
+Small joint effusion. Circumferential soft tissue swelling and edema about the knee. Mild strain of the vastus lateralis. Mild prepatellar bursitis. 
+
+Subchondral fracture in the lateral tibial plateau extending for an AP dimension of 2.7 cm with underlying bony edema. Findings are consistent with an osteochondral impaction fracture. Tiny bone bruise at the posterior aspect of the lateral tibial plateau. No fibular fracture. Medial compartment cartilage is intact. Slight chondrosis medial patella. No cartilage defects in the trochlea. Small congruent at the posterior aspect of the medial tibial plateau.
+
+IMPRESSION:
+
+Vertical tear posterior horn medial meniscus. No lateral meniscal tear.
+
+Complete rupture ACL, PCL and mid fibers of the MCL.
+
+High-grade partial tear proximal LCL. Sprain of proximal popliteus.
+
+Hairline subchondral fracture lateral tibial plateau with diffuse underlying bony edema. Tiny bone bruise posterior aspect lateral tibial plateau. Small bone bruise posterior aspect medial tibial plateau.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 41/58 [UID: 1.2.826.0.1.3680043.8.498.62549354677638403845904556149868367236] ---
+POS: ['ACL', 'MCL', 'Lateral Meniscus', 'Effusion', 'Synovitis', 'Contusion']
+NEG: ['Medial Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', "Baker's", 'Fracture']
+REPORT TEXT:
+[DATE]: MR Knie Rechts 15ch AA: Klinische inlichtingen: Zie gescande aanvraag Diagnostische vraagstelling: Zie gescande aanvraag Bevindingen: Impactiefractuur op centraal dragende deel van de laterale femorale condylen, gepaard gaand met uitgebreid botoedeem . Minstens botcontusie, mogelijks kleine niet-verplaatste fractuur posterieur aspect laterale tibiaplateau. Volledige scheur van de voorste kruisband, onregelmatig voorkomend, discontinu, met uitgebreid infiltratie van de omliggende weefsels. Matige opzetting van suprapatellaire recessus. Licht verdikt voorkomen mediale collaterale ligament, proximaal, met vocht oppervlakkig en diep aan het mediale collaterale ligament. Normaal voorkomen menisci. Normaal voorkomen kraakbeen. Licht verdikt voorkom end proximale patellapees, met minimaal gestegen T2-signaal, met m inimale infiltratie van het Hoffa vetpad aanliggend. Besluit: Ernstige distorsio van de rechterknie met : - Volledige ruptuur van de voorste kruisband, - Parti ële scheur proximaal op het mediale collaterale ligament, graad 2. Kleine impactiefractuur centraal dragende deel van de laterale femorale condyl, geassocieer d. Matige tendinose/chronische tendinitis proximale patellapees .
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 42/58 [UID: 1.2.826.0.1.3680043.8.498.64408609256163127278435484217683272910] ---
+POS: ['Medial Meniscus', 'Medial OA', 'Effusion', 'Synovitis', "Baker's"]
+NEG: ['ACL', 'MCL', 'Lateral Meniscus', 'Lateral OA', 'PF OA', 'Contusion', 'Fracture']
+REPORT TEXT:
+Koštani edem medijalnog kondila femura, anterionog dijela medijalnog kondila tibije te lateralnog
+tubera interkondilarne eminencije tibije.
+Obzirom erozivne promjene zglobne hrskavice medijalnog kompartmenta femorotibijalnog zgloba
+opisano vjerojatno u sklopu OA promjena.
+Prikaže se hondromalacija II° hrskavice lateralnog tibijalnog platoa te hondromalacija I°
+lateralne fasete patele.
+Prikazana zglobna tijela primjereno su uzglobljena.
+Prednji križni ligament održanog kontinuiteta, umjereno do teško degenerativno promijenjen.
+Stražnji križni ligament je primjerenih intenziteta signala i održanog kontinuiteta.
+Degenerativno promijenjenmedijalni menisk, osobito u području trupa i stražnjeg roga gdje se
+prati kompleksna ruptura s radijalnom i horizontalnom komponentom koja se pruža prema
+femoralnoj plohi.
+Lateralni menisk bez znakova rupture blaže degenerativno promijenjen u prednjem rogu i
+prednjem korijenu.
+Lateralni i medijalni kolateralni ligamenti su primjerenih intenziteta signala, održanog
+kontinuiteta.
+Burzitis tetive popliteusa.
+Uredan prikaz iliotibijalnog trakta i pes anserinus.
+Entezopatske promjene tetive kvadricepsa.
+Patelarni ligament su primjerenih intenziteta signala, održanog kontinuiteta.
+Inkompletna suprapatelarna plica.
+Patelarni retinakulumi održani.
+Manja količina izljeva u zglob.
+Baker cista veličine 22x31x37 mm (apxllxcc).
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 43/58 [UID: 1.2.826.0.1.3680043.8.498.64703506772167798469048460791472465039] ---
+POS: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Effusion', 'Contusion', 'Fracture']
+NEG: ['ACL', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's"]
+REPORT TEXT:
+FINDINGS:
+
+Fractures:
+Known mildly comminuted undisplaced avulsion fracture of the tibial tuberosity involving the distal ACL insertion, anteriorly the anterior horn root insertion of the lateral meniscus, as well as posteriorly the tibial insertion of both the posterior horn of medial and lateral menisci. The fracture involves the central portion of the medial tibial plateau articular surface anteriorly and posteriorly with articular surface collapse of 3 mm anteriorly and 5 mm posteriorly, as well as a step deformity of up to 2 mm posteriorly.
+Small mildly displaced avulsion fracture of the lateral corner of lateral tibial plateau [Segond fracture].
+Small mild osteochondral impaction at the anterior lateral weightbearing aspect of lateral femoral condyle.
+There is associated bone marrow edema associated with these fractures.
+
+Joint alignment:
+Mild widening of the medial femorotibial joint space. Otherwise preserved articular alignment.
+
+Degenerative changes:
+None.
+
+Bone marrow signal:
+Additional small area of bone marrow edema on the medial side of medial femoral condyle without evidence of associated fracture.
+
+Anterior cruciate ligament: The distal bony avulsion with laxity of the ACL, showing some internal high T2 signal changes compatible with additional low-grade partial ligamentous tear.
+Posterior cruciate ligament: Intact with mild laxity.
+Medial collateral ligament: Complete tear of the superficial portion at the mid to distal third. Moderate grade partial tear of the deep meniscal femoral and meniscal tibial components with partial meniscocapsular separation of the medial meniscal body.
+Lateral collateral ligament complex: Low-grade sprain of the proximal lateral collateral ligament. The other associated structures are intact.
+
+Medial meniscus: Mild nonspecific signal changes of the meniscal body, with evidence of small horizontal oblique tear extending to the femoral surface. No other significant tear. Bony avulsion of the posterior horn root insertion as detailed above.
+Lateral meniscus: Mild nonspecific signal changes at the anterior horn compatible with low-grade tearing. Evidence of small Wrisberg rip-type longitudinal tear of the periphery of the posterior horn. Complete tear of the inferior meniscal popliteal fascicle compatible with posterior lateral corner injury. There is a bony avulsion of the anterior horn and posterior horn root insertion sites.
+
+Extensor tendons: Normal.
+Patellar retinacula: Moderate grade partial tear of the medial retinaculum.
+Pes anserinus: Normal.
+
+Posteromedial and posterolateral corner: Diffuse signal change and mild thickening of the distal semimembranosus tendon compatible with low to moderate grade partial tearing.
+Complete tear of the inferior meniscal popliteal fascicle compatible with posterior lateral corner injury.
+
+Joint effusion: Large joint effusion.
+Baker cyst: None.
+
+Other significant findings:
+None.
+
+CONCLUSION:
+*Comminuted mildly displaced avulsion fracture of the tibial spine with mild comminution, including the distal insertion of the ACL, the anterior horn root insertion of the lateral meniscus, and posterior horn root insertion zone of the medial and lateral menisci. Intra-articular fracture extension involving the central portion of the medial tibial plateau with small gap/step as described.
+*Small mildly displaced lateral corner fracture of the lateral tibial plateau [Segond fracture].
+*Small osteochondral impaction fracture of the lateral corner of lateral femoral condyle.
+*High-grade tear of the medial collateral ligament.
+*Low-grade partial tear/sprain of the anterior cruciate ligament and lateral collateral ligament.
+*Additional low-grade tears involving the medial and lateral menisci as described.
+*Moderate grade partial tear of the medial patellar retinaculum.
+*Posteromedial and posterolateral corner injuries as described.
+*Large joint effusion.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 44/58 [UID: 1.2.826.0.1.3680043.8.498.65708905118633339771181857781063784327] ---
+POS: ['Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's"]
+NEG: ['ACL', 'MCL', 'Contusion', 'Fracture']
+REPORT TEXT:
+In the medial compartment, there is radial tear at the posterior root of the medial meniscus. There is displaced meniscal fragment into the medial gutter. There is diffuse high grade and low grade chondrosis (less than and more than 50% thickness cartilage loss) along weightbaring medial femoral condyle and medial tibial plateau. There is subchondral edema. Osteophytes are present. 
+  
+ The lateral compartment, there is small horizontal tear at the anterior horn of the lateral meniscus. There is focal high grade chondrla defectat mid lateral tibial plateau (about 1.2* 1.1 cm). There is no subchondral edema. Osteophytes are present.  
+  
+ The patellofemoral joint, there is diffuse low grade and high grade chondrosis (less than and more than 50% thickness cartilage loss) along medial and lateral trochleas, medial and lateral patellar facets. There is subchondral edema. Osteophytes are present. The medial patellofemoral ligament is intact.  
+  
+ In the intercondylar notch, the anterior cruciate ligament is intact. The posterior cruciate ligament is intact. There is no tibial translation. 
+  
+ The medial collateral ligament complexes are intact. The posteromedial oblique ligament is intact.  
+  
+ The lateral collateral ligament complexes are intact. The popliteofibular ligament is intact. The meniscopopliteal fascicles are intact.  
+  
+ The extensor mechanism is normal.  
+ Some amount of left knee effusion with synovitis is present. A 1.5*1.5* 4.5 cm baker's cyst at the posteromedial aspect of left knee. The surrounding musculature is normal.  Tricompartmental osteoarthritis of the left knee by evidence of chondrosis, subchondral edema, and osteophytes. 
+  Radial tear at the posterior root of the medial meniscus. (note: meniscal extrusion into the medial gutter). 
+  Suspected small horizontal tear at the anterior horn of the lateral meniscus.  
+  Some amount of left knee effusion with synovitis and 1.5*1.5* 4.5 cm baker's cyst.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 45/58 [UID: 1.2.826.0.1.3680043.8.498.67188121544063723837669983597453941774] ---
+POS: ['ACL', 'Medial Meniscus', 'Effusion']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+SAĞ DİZ MRG. Tetkik protokolü: Çok düzlemli, çok sekanslı. Bulgular: Medial menisküs posterior hornda radial yırtık hattı izlenmiştir.Lateral menisküste grade II dejenerasyon saptanmıştır. PCL hafif elonge görünümdedir, sinyal bütünlüğü korunmuştur. ACL'de parsiyel rüptürü düşündüren devamsızlık, trasesinde sinyal-kalınlık artışı izlenmiştir. Lateral ve medial kollateral ligaman normaldir.Distal kuadriseps ve patellar tendonlar normaldir. Patella normal yerleşimlidir. Retinaküler devamsızlık yoktur.Suprapatellar bursada, diz eklem kapsülünde artmış efüzyon mevcuttur.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 46/58 [UID: 1.2.826.0.1.3680043.8.498.69392348385274125385290015404144639002] ---
+POS: ['PF OA']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Técnica: RMN de la rodilla. Resultados: Pinzamiento de la almohadilla grasa de Hoffa. Síndrome de fricción de la banda iliotibial. Condropatía rotuliana. Impresión: Pinzamiento de la almohadilla grasa de Hoffa. Síndrome de fricción de la banda iliotibial. Condropatía rotuliana.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 47/58 [UID: 1.2.826.0.1.3680043.8.498.72853333220043794904856138561095171921] ---
+POS: ['MCL']
+NEG: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Exam Type: MRI KNEE LEFT WO CONTRAST
+Exam Date and Time: [DATE] [TIME]
+Indication: Left knee pain for 4 weeks after injury at gym.
+Comparison: No relevant prior studies available for comparison.
+
+TECHNIQUE:
+MRI of the left knee was performed on a 1.5 Tesla system with a dedicated knee coil in three planes (axial, sagittal, and coronal), using a standard non-contrast protocol.
+
+FINDINGS:
+OSSEOUS STRUCTURES:
+Alignment is anatomic. No acute fracture. Normal background marrow signal. No focal osseous lesion. Focal bone marrow edema at the anteromedial tibial plateau. Small focal osteochondral impaction injury at the posterior lateral femoral condyle.
+
+JOINT SPACE:
+No joint effusion. No Baker's cyst.
+
+MEDIAL COMPARTMENT:
+Medial meniscus: No tear.
+Medial compartment cartilage: Intact.
+
+LATERAL COMPARTMENT:
+Lateral meniscus: No tear.
+Lateral compartment cartilage: Intact.
+
+PATELLOFEMORAL COMPARTMENT:
+Patellofemoral compartment cartilage: Low-grade articular cartilage loss at the lateral and medial patellar facets.
+
+CRUCIATE LIGAMENTS:
+Anterior cruciate ligament (ACL): No tear.
+Posterior cruciate ligament (PCL): No tear.
+
+COLLATERAL LIGAMENTS & POSTEROLATERAL CORNER:
+Medial collateral ligament (MCL): Grade 2 injury.
+Lateral collateral ligament (LCL) complex: Normal.
+Posterolateral corner structures: Normal.
+
+EXTENSOR MECHANISM:
+Extensor Apparatus: Normal quadriceps tendon. Normal patellar tendon.
+Medial patellofemoral ligament (MPFL) and patellar retinacula: Normal.
+Patellofemoral tracking: No edema in superolateral Hoffa's fat pad. No lateral patellar tilt or translation. No patella alta. Tibial tubercle-trochlear groove (TT-TG) distance is 12 mm, normal.
+
+MUSCLES/TENDONS:
+No disproportionate muscle atrophy. Visualized tendons not previously discussed are intact.
+
+SOFT TISSUES:
+No soft tissue mass. Normal popliteal neurovascular bundle.
+
+IMPRESSION:
+
+1.	Small acute osteochondral impaction injury at the posterior lateral femoral condyle. Small focus of bone marrow edema at the anteromedial tibial plateau, likely a contusion.
+2.	Grade 2 medial collateral ligament (MCL) sprain.
+3.	Mild patellofemoral compartment chondrosis.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 48/58 [UID: 1.2.826.0.1.3680043.8.498.73527530686853911124431549317032662220] ---
+POS: ['ACL', 'PF OA', 'Effusion', 'Contusion', 'Fracture']
+NEG: ['MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'Synovitis', "Baker's"]
+REPORT TEXT:
+MRI of Knee with 
+-3-Plane Loc, Sag PD FS, Sag T2 FS, Sag T1, Cor T2 FS, Ax T2 FS
+
+
+
+> The contour of ACL is not in a straight line and increase signal intensity inside on F/S T2WI, in favor of tear, major at proximal portion.
+> The contour of PCL appears to be within normal, no abnormal signal intensity is noted.
+> Joint effusion and suprapatellar bursitis with suprapatellar, lateral and medial plicae; hypertrophy of the synovium, indicative of synovitis.
+> Linear signal intensity in posterior horn of medial meniscus, and increased signal of meniscocapsular junction, R/O Ramp lesion or peripheral longitudinal tear of posterior horn of medial meniscus.
+> Both medial & lateral collateral ligaments appear to be within normal.
+> Abnormal signal intensity is noted in proximal tibia and distal femur, which shows low signal intensity on T1WI and high signal intensity on T2WI, in favor of bone contusion, more prominent at lateral side.
+  In favor of subchondral fracture of lateral femoral condyle.
+> Subcutansoue edema over right knee, more prominent at anterior portion; mild deep infrapatellar bursitis.
+> Focal wearing of articular cartilage of femoral trochelam reflecting grade 3-4 chondromalacia and mild subchondral edema (Srs/Img: [ID]
+> Small lymph node in popliteal fossa.
+
+Impression: 
+1. C/W ACL tear.
+2. R/O Ramp lesion or peripheral longitudinal tear of posterior horn of medial meniscus.
+3. Bone contusion in right distal femur and proximal tibia, R/O subchondral fracture of lateral femoral condyle.
+4. Grade 1 injury of LCL and popliteus tendon
+5. Grade 3-4 chondromalacia and mild subchondral edema of femoral trochlea(Srs/Img: [ID].
+6. Moderate joint effsuion and synovitis of right knee and patellar plicae.
+7. Subcutaneous edema over right knee and deep infrapatellar bursitis.
+Suggest correlation with clinical manifestation
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 49/58 [UID: 1.2.826.0.1.3680043.8.498.73926443729786165628848843707532839995] ---
+POS: ['Medial Meniscus', 'PF OA', 'Effusion', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+T2-hyperintense lineare radiale Läsion der Pars intermedia des Innenmeniskus mit inkompletter Separation eines kleinen Lappens (3/7, 5/109-110). Die initial extruierte Pars intermedia des Innenmeniskus im Corpusbereich mukoid aufgefasert. Weitere zarte horizontale T2-Hyperintensität im Innenmeniskushinterhorn (3/7, 4/20). Fokal T2-hyperintenses Signal im medialen Tibiaplateau (7/22). Flüssigkeitssignal ums MCL. VKB, HKB, MCL und LCL intakt und physiologisch signalgebend. Kleine zystoide Veränderungen an den Insertionsstellen des VKB. Geringer Gelenkerguss. Baker-Zyste; diese bis 2 x 1,5 x CC 3,5 cm Ausdehnung.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 50/58 [UID: 1.2.826.0.1.3680043.8.498.75187434248356774277526985329346125190] ---
+POS: ['ACL', 'Medial Meniscus', 'PF OA', 'Effusion', "Baker's", 'Contusion']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'Synovitis', 'Fracture']
+REPORT TEXT:
+МР находка: МР данни за ставен излив. Изобразява се остеохондрална фрактура в областта на медиалния кондил на бедрената кост. Фрактурата се представя като хипоинтензна линия с дъговидна форма. Налице е костно-мозъчен едем в костта, както и депресия на медиалното плато. В този участък се изобразява и изтъняване на артикулиращия хрущял на кондила на протежение от около 9 мм. Костно-мозъчен едем е налице в медиалното тибиално плато, както и в отграничен участък от латералния кондил на фемура. Ставният хрущял, покриващ тибията и латералния кондил на бедрената кост, е със запазена дебелина и конгруентност.
+МР данни за руптура на задния рог на медиалния менискус. В задния рог на медиалния менискус се изобразява хиперинтензна линия с кос ход, достигаща до края на менискуса и до артикулиращата повърхност на тибията. МР данни за дегенеративни промени в задния рог на латералния менискус. В него се вижда къса хиперинтензна линия с хоризонтален ход, не достигаща до ставните повърхности. Нормално изобразяване на предния рог на медиалния менискус и на 
+предния рог на латералния менискус. Латералният менискус е лекостепенно експулсиран встрани. МР данни за пълна руптура на предната кръстна връзка в залавното ѝ място за фемура. Връзката е с разширен напречник и е с дифузно повишен сигнален интензитет. Задна кръстна връзка – интактна. Двата колатерални лигамента са с правилна форма, хомогенна структура и сигнален интензитет до залавните им места. Патела, хрущял на пателата, ретинакулуми – б.о. Сухожилие на m. quadriceps femoris, lig. patellae – нормален образ. Изобразени мускулни групи и останали меки тъкани – нормален образ. Наличие на малка еднокамерна Бекерова киста в поплитеалната ямка с размер 17/12 мм. Заключение: МР данни за остеохондрална фрактура в медиалното плато на бедрената кост. Скъсване в заден рог на медиален менискус - grade 3. Лезия в задния рог на латералния менискус – grade 2a. Пълна руптура на предна кръстна връзка. Ставен излив. Травматичен костно-мозъчен едем. Малка Бекерова киста.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 51/58 [UID: 1.2.826.0.1.3680043.8.498.77362718298550276679350855963451855003] ---
+POS: ['Lateral OA', 'Effusion', 'Synovitis', 'Contusion']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'PF OA', "Baker's", 'Fracture']
+REPORT TEXT:
+Technique: MRI of the knee. ACL normal. MCL normal. Medial meniscus tear. Lateral meniscus normal. Cartilages normal. Medial retinaculum rupture and medial patello-femoral ligament tear at the site of femoral attachment with haematoma. No Baker's cyst. Mild effusion. Patella type 3 Wiberg. Hypoplastic trochlea. Coclusion: . Medial retinaculum rupture and medial patello-femoral ligament tear at the site of femoral attachment with haematoma.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 52/58 [UID: 1.2.826.0.1.3680043.8.498.78512215519177850923279235346968676828] ---
+POS: ['Medial Meniscus', 'Medial OA', 'PF OA']
+NEG: ['ACL', 'MCL', 'Lateral Meniscus', 'Lateral OA', 'Effusion', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Zglobna tijela PF zgloba su kongruentna.
+PF artrotske promjene s reduciranim zglobnim prostorom, manjim izljevom i hondromalacijom IV
+stupnja hrskavice interfasetarno.
+Hondromalacija II.stupnja lateralnog platoa tibije i hrskavice medijalnog kondila femura. OA promjene obostrano, izraženije lateralno uz osteofite.
+Plato tibije interkondilarno straga pokazuje više manjih subhondralnih cista.
+Minimalni izljev.
+Prednji križni ligament u području distalnog hvatišta pokazuje trokutasti hiperintenzitet koji
+može odgovarati manjoj intrasupstancijskoj rupturi.
+Vertikalna ruptura stražnjeg roga medijalnog meniska koja seže i zahvaća donju artikulacijsku
+plohu uz promijenjen intenzitet signala posteromedijalnog dijela zglobne čahure i meniskotibijalne
+sveze - ramp lezija .
+Uz stražnju konturu meniska vidi se nekoliko milimetarskih ganglion cista.
+Početno degenerativno promijenjen intenizet signala preostalog dijela medijalnog meniska.
+Manja ekstruzija dijela diska u meniskotibijalni recesus.
+Lateralni menisk bez znakova degeneracije ili rupture.
+Stražnji križni ligament urednog signala te se prati u kontinuitetu.
+Lateralni i medijalni kolateralni ligamenti urednog signala te se prate u kontinuitetu.
+Blage tendinopatske promjene hvatišta tetive kvadricepsa.
+Uredan izgled patelarnog ligamenta.
+Bez znakova poplitealne ciste.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 53/58 [UID: 1.2.826.0.1.3680043.8.498.82166943552764439138333504456139890254] ---
+POS: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Effusion']
+NEG: ['MCL', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+In the medial compartment, there is complex tear (main radial component) at the body and posterior horn of the medial meniscus. There is displaced meniscal fragment into the medial gutter. There is diffuse high grade and low grade chondrosis (less than and more than 50% thickness cartilage loss) along weightbaring medial femoral condyle and medial tibial plateau. There is no subchondral edema. Osteophytes are present. 
+  
+ The lateral compartment, there is complex tear with buckethandle tear at the anterior horn, body and posterior horn of the lateral meniscus. There is focal high grade chondrosis at the the posterolateral tibial plateau (about 1.5* 1.9 cm). There is subchondral edema. Osteophytes are present.  
+  
+ The patellofemoral joint, there is focal grade  chondrosis (less than 50% thickness cartilage loss) at the medial patellar facet (about 1.3* 1 cm). The medial patellofemoral ligament is intact.  
+  
+ In the intercondylar notch, there is chronic complete tear of the anterior cruciate ligament, at mid substance. The posterior cruciate ligament is intact. There is no tibial translation. 
+  
+ The medial collateral ligament complexes are intact. The posteromedial oblique ligament is intact.  
+  
+ The lateral collateral ligament complexes are intact. The popliteofibular ligament is intact. The meniscopopliteal fascicles are intact.  
+  
+ The extensor mechanism is normal.  
+  
+ Minimal amount of right knee effusion is present.The surrounding musculature is normal.  Mild medial tibiofemoral compartmental osteoarthritis of the right knee by evidence of chondrosis, subchondral edema and osteophytes. 
+  Focal high grade chondrosis at the the posterolateral tibial plateau (about 1.5* 1.9 cm).  
+  Focal low grade  chondrosis at the medial patellar facet (about 1.3* 1 cm).  
+  Complex tear (main radial component) at the body and posterior horn of the medial meniscus. (note: displaced meniscal fragment into the medial gutter). 
+  Complex tear with buckethandle tear at the anterior horn, body and posterior horn of the lateral meniscus. 
+  Chronic complete tear of the anterior cruciate ligament, at mid substance.  
+  Minimal amount of right knee effusion.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 54/58 [UID: 1.2.826.0.1.3680043.8.498.86968600239724310678905311244945464037] ---
+POS: ['ACL', 'Medial Meniscus', 'Effusion']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Right knee pain. R/O ACL insufficiency. 
+MRI of right knee without contrast. 
+Pulse sequences: sagittal T1, axial, coronal, sagittal T2 FS, sagittal PD FS
+
+Findings: 
+1. Suggestive of complete tear of ACL. 
+The PCL appears intact. 
+2. Tear of the posterior horn of medial meniscus.
+The lateral meniscus shows no obvious tear. Suspected meniscocapsular separation over posterior horn of lateral meniscus. 
+3. The medial & lateral collateral ligaments, quadriceps & patellar tendons show intact appearance. 
+4. Mild to moderate knee joint effusion. 
+5. Bone marrow edema over lateral tibial plateau. 
+Periarticular & intraarticular soft tissue edema mainly over prepatellar & infrapatellar area. 
+6. Intact patellar cartilage. 
+
+IMP:
+Complete ACL tear. 
+Tear of posterior horn of medial meniscus. 
+Suspected meniscocapsular separation over posterior horn of lateral meniscus. 
+Mild to moderate knee joint effusion. 
+Bone marrow edema over lateral tibial plateau.
+
+Suggest clinical correlation and further management.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 55/58 [UID: 1.2.826.0.1.3680043.8.498.88077418639301174409926781329613570435] ---
+POS: ['ACL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', "Baker's"]
+NEG: ['MCL', 'Contusion', 'Fracture']
+REPORT TEXT:
+Uznapredovale goanrtrotske promjene uz opsežan zglobni izljev i umjerenu proliferaciju sinovije.
+Zone rekonverzijhe koštane srži u metafizi femura.
+Denudacija hrskavice medijalnog kompartmenta FT zgloba te fisure i erozije hrskavica lateralnog
+kompartmenta.
+Hondromalacija III° obje fasete patele i trohleje femura, uz reduciranu debljinu navedenih
+hrskavica te opsežne osteofite FP zgloba - opisano u sklopu navedenih OA promjena.
+Prikazana zglobna tijela primjereno su uzglobljena.
+Kompleksna ruptura oba meniska uz obostrano ekstruziju oko 5 mm, oba meniska značajno
+degenerativno promijenjena.
+Potpuna ruptura prednjeg križnog ligamenta.
+Stražnji križni ligament u proksimalne 2/3 izrazito edematozan, zadebljan (širine 12 mm), uz
+tibijalno hvatište nalazi se više ganglion cisti promjera do 7 mm. - dif. dg. uslijed
+uznapredovalih degenerativnih promjena ili parcijalne rupture starijeg datuma.
+Lateralni kolateralni ligament je vretenasto zadebljan pri hvatištu na lateralni epikondil femura te
+promijenjenog intenziteta signala pri hvatištu na glavu fibule, moguće stanje po ranijoj
+parcijalnoj rupturi ili uslijed entezopatskih promjena.
+Medijalni kolateralni ligament je vretenasto zadebljan pri hvatištu na medijalni epikondil femura
+uz periligamentarni edem, vjerojatno uslijed entezopatskih promjena.
+Tetiva popliteusa edemazotna, izmijenjenog intenziteta signala, u smislu tendinopatije.
+Uredan prikaz iliotibijalnog trakta i pes anserinus.
+Tetiva kvadricepsa i patelarni ligament su izmijenjenih intenziteta signala na hvatištima za
+patelu, održanog kontinuiteta - entezopatske promjene.
+Patelarni retinakulumi održani.
+Poplitealna cista promjera 5 mm.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 56/58 [UID: 1.2.826.0.1.3680043.8.498.90283565381042081768587894596970552767] ---
+POS: ['PF OA', 'Effusion', 'Synovitis']
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', "Baker's", 'Contusion', 'Fracture']
+REPORT TEXT:
+Técnica: RMN de la rodilla. Resultados: Cambios de señal en el menisco interno sin signos de desgarro. Secuelas de osteocondritis de la tuberosidad tibial. OA femorotibial medial y lateral. OA patelofemoral. Derrame con sinovitis. Quiste subcondral en la meseta tibial lateral. Impresión: Cambios de señal en el menisco interno sin signos de desgarro. OA patelofemoral. Derrame con sinovitis.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 57/58 [UID: 1.2.826.0.1.3680043.8.498.94433753471890306108089557761231739312] ---
+POS: ["Baker's"]
+NEG: ['ACL', 'MCL', 'Medial Meniscus', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion', 'Synovitis', 'Contusion', 'Fracture']
+REPORT TEXT:
+No significant knee effusion. Normal medial and lateral menisci. No evidence of tears.  Normal ACL, PCL, MCL and LCL. Normal extensor mechanism.  The tibiofemoral and patellofemoral articular cartilage is normal. Normal visualized bones and surrounding soft tissues.  Conclusion: No evidence of meniscal tears or ligamentous injury.
+----------------------------------------------------------------------------------------------------
+
+--- STUDY 58/58 [UID: 1.2.826.0.1.3680043.8.498.97274720257634584071500649275217521662] ---
+POS: ['ACL', 'Medial Meniscus', 'Synovitis', "Baker's", 'Contusion', 'Fracture']
+NEG: ['MCL', 'Lateral Meniscus', 'Medial OA', 'Lateral OA', 'PF OA', 'Effusion']
+REPORT TEXT:
+Stigmata der Inaktivitätsosteopenie sowie verbliebenes bone bruise im posterolateralen Tibiaplateau nahe der Eminentia bei subchondraler Impression mit teils punktuell chondralen Läsionen. Anamnestisch bek. VKB Ruptur mit wohl ligamentärer Ruptur des anteromedialen Bündels sowie knöchernem Ausriss des posterolateralen Bündels (4/23). Weiteres Ossikel/Flake angrenzend an die nicht sicher abgrenzbare Außenmeniskushinterhornwurzel, hier DD ebenfalls Mitbeteiligung/knöcherner Ausriss. Innenmeniskus mit horizontalem Riss Pars intermedia bis ins Hinterhorn ziehend bei mukoider Vorschädigung. Zusätzlich noch Knochenödem im medialen femorotibialen Gelenkkompartiment randständig, tibial führend, bei vorrangig Chondropathie. Begleitend geringer Gelenkerguss, Reizsynovialitis sowie gering Flüssigkeit gefüllte Baker-Zyste mit CC 3,2 cm. Kl. Plica mediopatellaris.
+----------------------------------------------------------------------------------------------------
