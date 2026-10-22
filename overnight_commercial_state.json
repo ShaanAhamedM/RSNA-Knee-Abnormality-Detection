@@ -1,0 +1,254 @@
+{
+  "mission_start_time": "2026-10-25 22:06:27",
+  "last_update_time": "2026-10-26 04:50:58",
+  "phases_completed": {
+    "Initialization": {
+      "completed_at": "2026-10-25 22:06:27",
+      "metrics": {
+        "init_gpu_temp": 50.0
+      }
+    },
+    "Phase 1: Clinical NLP Teacher": {
+      "completed_at": "2026-10-25 22:14:47",
+      "metrics": {
+        "macro_auc": 0.6792563675783384,
+        "target_aucs": {
+          "ACL": 0.664828431372549,
+          "MCL": 0.764172335600907,
+          "Medial Meniscus": 0.7824519230769231,
+          "Lateral Meniscus": 0.7018633540372671,
+          "Medial OA": 0.7643410852713178,
+          "Lateral OA": 0.6160541586073501,
+          "PF OA": 0.6325611325611326,
+          "Effusion": 0.6391304347826088,
+          "Synovitis": 0.6236559139784946,
+          "Baker's": 0.5751811594202899,
+          "Contusion": 0.7132253711201079,
+          "Fracture": 0.6736111111111112
+        },
+        "purity_rate": 0.5926367143181303
+      }
+    },
+    "Stage 2A: SigLIP Pretraining": {
+      "completed_at": "2026-10-25 22:22:27",
+      "metrics": {
+        "best_val_auc": 0.68771469277375
+      }
+    },
+    "Phase 3: Anatomical GNN": {
+      "completed_at": "2026-10-25 22:31:37",
+      "metrics": {
+        "macro_auc": 0.6118322809315734,
+        "target_aucs": {
+          "ACL": 0.6875,
+          "MCL": 0.4750566893424036,
+          "Medial Meniscus": 0.5294471153846154,
+          "Lateral Meniscus": 0.7217391304347825,
+          "Medial OA": 0.6434108527131783,
+          "Lateral OA": 0.6276595744680852,
+          "PF OA": 0.5173745173745172,
+          "Effusion": 0.6086956521739131,
+          "Synovitis": 0.5388291517323776,
+          "Baker's": 0.6576086956521738,
+          "Contusion": 0.597165991902834,
+          "Fracture": 0.7375
+        }
+      }
+    },
+    "Phase 4: Commercial Deployment Suite": {
+      "completed_at": "2026-10-25 22:32:01",
+      "metrics": {
+        "unfiltered_gold_macro_auc": 0.7510118906004504,
+        "triage_90_macro_auc": 0.7570524986110271,
+        "triage_80_macro_auc": 0.7356024156708404,
+        "triage_80_sensitivity": 0.22470927467421153,
+        "triage_80_specificity": 0.9086244388327721
+      }
+    },
+    "Enhanced Gated-GNN Transformer": {
+      "completed_at": "2026-10-25 22:55:31",
+      "metrics": {
+        "macro_auc": 0.6228
+      }
+    },
+    "Upgraded Commercial Grandmaster Optimization": {
+      "completed_at": "2026-10-26 04:50:58",
+      "metrics": {
+        "raw_macro_auc": 0.7700948421557255,
+        "triage_90_macro_auc": 0.7702,
+        "triage_80_macro_auc": 0.7713,
+        "triage_80_specificity": 0.6993,
+        "triage_80_ppv": 0.5882
+      }
+    }
+  },
+  "current_phase": "Upgraded Commercial Grandmaster Optimization",
+  "highest_macro_auc": 0.7558,
+  "history": [
+    {
+      "timestamp": "2026-10-25 22:06:27",
+      "phase": "Initialization",
+      "status": "COMPLETED",
+      "metrics": {
+        "init_gpu_temp": 50.0
+      },
+      "notes": "Thermal governor verified"
+    },
+    {
+      "timestamp": "2026-10-25 22:14:47",
+      "phase": "Phase 1: Clinical NLP Teacher",
+      "status": "COMPLETED",
+      "metrics": {
+        "macro_auc": 0.6792563675783384,
+        "target_aucs": {
+          "ACL": 0.664828431372549,
+          "MCL": 0.764172335600907,
+          "Medial Meniscus": 0.7824519230769231,
+          "Lateral Meniscus": 0.7018633540372671,
+          "Medial OA": 0.7643410852713178,
+          "Lateral OA": 0.6160541586073501,
+          "PF OA": 0.6325611325611326,
+          "Effusion": 0.6391304347826088,
+          "Synovitis": 0.6236559139784946,
+          "Baker's": 0.5751811594202899,
+          "Contusion": 0.7132253711201079,
+          "Fracture": 0.6736111111111112
+        },
+        "purity_rate": 0.5926367143181303
+      },
+      "notes": "Transliterated V7 engine achieved 0.6793 Macro-AUC on Gold-58 with 59.3% purity gating."
+    },
+    {
+      "timestamp": "2026-10-25 22:22:27",
+      "phase": "Stage 2A: SigLIP Pretraining",
+      "status": "COMPLETED",
+      "metrics": {
+        "best_val_auc": 0.68771469277375
+      },
+      "notes": "Biomedical SigLIP contrastive visual encoder successfully trained and cached."
+    },
+    {
+      "timestamp": "2026-10-25 22:31:37",
+      "phase": "Phase 3: Anatomical GNN",
+      "status": "COMPLETED",
+      "metrics": {
+        "macro_auc": 0.6118322809315734,
+        "target_aucs": {
+          "ACL": 0.6875,
+          "MCL": 0.4750566893424036,
+          "Medial Meniscus": 0.5294471153846154,
+          "Lateral Meniscus": 0.7217391304347825,
+          "Medial OA": 0.6434108527131783,
+          "Lateral OA": 0.6276595744680852,
+          "PF OA": 0.5173745173745172,
+          "Effusion": 0.6086956521739131,
+          "Synovitis": 0.5388291517323776,
+          "Baker's": 0.6576086956521738,
+          "Contusion": 0.597165991902834,
+          "Fracture": 0.7375
+        }
+      },
+      "notes": "12-Node Anatomical Graph Attention Network achieved 0.6118 5-Fold Macro-AUC on Gold-58."
+    },
+    {
+      "timestamp": "2026-10-25 22:32:01",
+      "phase": "Phase 4: Commercial Deployment Suite",
+      "status": "COMPLETED",
+      "metrics": {
+        "unfiltered_gold_macro_auc": 0.7510118906004504,
+        "triage_90_macro_auc": 0.7570524986110271,
+        "triage_80_macro_auc": 0.7356024156708404,
+        "triage_80_sensitivity": 0.22470927467421153,
+        "triage_80_specificity": 0.9086244388327721
+      },
+      "notes": "Ensemble reached 0.7356 Macro-AUC and 22.5% Sens / 90.9% Spec at 80% coverage."
+    },
+    {
+      "timestamp": "2026-10-25 22:55:31",
+      "phase": "Enhanced Gated-GNN Transformer",
+      "status": "COMPLETED",
+      "metrics": {
+        "macro_auc": 0.6228
+      },
+      "notes": "Enhanced Gated-GNN completed 5 folds successfully."
+    },
+    {
+      "timestamp": "2026-10-25 22:56:25",
+      "phase": "Upgraded Commercial Grandmaster Optimization",
+      "status": "COMPLETED",
+      "metrics": {
+        "raw_macro_auc": 0.7576179060246302,
+        "triage_90_macro_auc": 0.7666,
+        "triage_80_macro_auc": 0.7728,
+        "triage_80_specificity": 0.6996,
+        "triage_80_ppv": 0.5749
+      },
+      "notes": "Upgraded commercial grandmaster optimization completed with full conformal selective triage."
+    },
+    {
+      "timestamp": "2026-10-25 23:40:37",
+      "phase": "Upgraded Commercial Grandmaster Optimization",
+      "status": "COMPLETED",
+      "metrics": {
+        "raw_macro_auc": 0.7576179060246302,
+        "triage_90_macro_auc": 0.7666,
+        "triage_80_macro_auc": 0.7728,
+        "triage_80_specificity": 0.6996,
+        "triage_80_ppv": 0.5749
+      },
+      "notes": "Upgraded commercial grandmaster optimization completed with full conformal selective triage."
+    },
+    {
+      "timestamp": "2026-10-26 01:25:20",
+      "phase": "Upgraded Commercial Grandmaster Optimization",
+      "status": "COMPLETED",
+      "metrics": {
+        "raw_macro_auc": 0.7588605777887144,
+        "triage_90_macro_auc": 0.7655,
+        "triage_80_macro_auc": 0.7697,
+        "triage_80_specificity": 0.7006,
+        "triage_80_ppv": 0.5787
+      },
+      "notes": "Upgraded commercial grandmaster optimization completed with full conformal selective triage."
+    },
+    {
+      "timestamp": "2026-10-26 02:41:26",
+      "phase": "Upgraded Commercial Grandmaster Optimization",
+      "status": "COMPLETED",
+      "metrics": {
+        "raw_macro_auc": 0.7699034064804188,
+        "triage_90_macro_auc": 0.767,
+        "triage_80_macro_auc": 0.772,
+        "triage_80_specificity": 0.6795,
+        "triage_80_ppv": 0.5847
+      },
+      "notes": "Upgraded commercial grandmaster optimization completed with full conformal selective triage."
+    },
+    {
+      "timestamp": "2026-10-26 04:27:26",
+      "phase": "Upgraded Commercial Grandmaster Optimization",
+      "status": "COMPLETED",
+      "metrics": {
+        "raw_macro_auc": 0.7700948421557255,
+        "triage_90_macro_auc": 0.7702,
+        "triage_80_macro_auc": 0.7758,
+        "triage_80_specificity": 0.7,
+        "triage_80_ppv": 0.5877
+      },
+      "notes": "Upgraded commercial grandmaster optimization completed with full conformal selective triage."
+    },
+    {
+      "timestamp": "2026-10-26 04:50:58",
+      "phase": "Upgraded Commercial Grandmaster Optimization",
+      "status": "COMPLETED",
+      "metrics": {
+        "raw_macro_auc": 0.7700948421557255,
+        "triage_90_macro_auc": 0.7702,
+        "triage_80_macro_auc": 0.7713,
+        "triage_80_specificity": 0.6993,
+        "triage_80_ppv": 0.5882
+      },
+      "notes": "Upgraded commercial grandmaster optimization completed with full conformal selective triage."
+    }
+  ]
+}
