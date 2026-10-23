@@ -1,0 +1,357 @@
+{
+  "targets": [
+    "ACL",
+    "MCL",
+    "Medial Meniscus",
+    "Lateral Meniscus",
+    "Medial OA",
+    "Lateral OA",
+    "PF OA",
+    "Effusion",
+    "Synovitis",
+    "Baker's",
+    "Contusion",
+    "Fracture"
+  ],
+  "kept_models": [
+    "convnext_small",
+    "convnext_small_report_sup",
+    "seresnext50_32x4d",
+    "densenet121",
+    "efficientnet_b2",
+    "swin_tiny_patch4_window7_224"
+  ],
+  "pruned_models": [
+    "efficientnet_b0"
+  ],
+  "kept_folds": {
+    "convnext_small": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "seresnext50_32x4d": [
+      1,
+      3
+    ],
+    "densenet121": [
+      4
+    ],
+    "efficientnet_b2": [
+      0,
+      2,
+      4
+    ],
+    "swin_tiny_patch4_window7_224": [
+      1,
+      2,
+      3
+    ],
+    "convnext_small_report_sup": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "per_target_weights": {
+    "ACL": {
+      "weights": {
+        "convnext_small": 0.4,
+        "convnext_small_report_sup": 0.15,
+        "seresnext50_32x4d": 0.25,
+        "efficientnet_b2": 0.2
+      },
+      "auc": 0.5153186274509803
+    },
+    "MCL": {
+      "weights": {
+        "convnext_small": 0.0,
+        "convnext_small_report_sup": 0.22611652121329298,
+        "seresnext50_32x4d": 0.5631490369365331,
+        "densenet121": 0.04188245903566022,
+        "efficientnet_b2": 0.11569363777534843,
+        "swin_tiny_patch4_window7_224": 0.05315834503916529
+      },
+      "auc": 0.6757369614512472
+    },
+    "Medial Meniscus": {
+      "weights": {
+        "convnext_small": 0.07188095902142397,
+        "convnext_small_report_sup": 0.13011978251484446,
+        "seresnext50_32x4d": 0.12703341464303822,
+        "densenet121": 0.169882957341535,
+        "efficientnet_b2": 0.33237113413435354,
+        "swin_tiny_patch4_window7_224": 0.16871175234480484
+      },
+      "auc": 0.5492788461538461
+    },
+    "Lateral Meniscus": {
+      "weights": {
+        "convnext_small": 0.3924124693172261,
+        "convnext_small_report_sup": 0.15463262153351892,
+        "seresnext50_32x4d": 0.13496264983611872,
+        "densenet121": 0.0,
+        "efficientnet_b2": 0.13892586966651474,
+        "swin_tiny_patch4_window7_224": 0.17906638964662144
+      },
+      "auc": 0.5453416149068323
+    },
+    "Medial OA": {
+      "weights": {
+        "convnext_small": 0.0,
+        "convnext_small_report_sup": 0.12474028839570475,
+        "seresnext50_32x4d": 0.07161707328826537,
+        "densenet121": 0.21635894716398996,
+        "efficientnet_b2": 0.1288954785365589,
+        "swin_tiny_patch4_window7_224": 0.45838821261548096
+      },
+      "auc": 0.6108527131782946
+    },
+    "Lateral OA": {
+      "weights": {
+        "convnext_small": 0.15483233262226262,
+        "convnext_small_report_sup": 0.115976560132621,
+        "seresnext50_32x4d": 0.13353449388695243,
+        "densenet121": 0.1226128287511422,
+        "efficientnet_b2": 0.0887379073721902,
+        "swin_tiny_patch4_window7_224": 0.38430587723483156
+      },
+      "auc": 0.6479690522243714
+    },
+    "PF OA": {
+      "weights": {
+        "convnext_small": 0.22841863207333404,
+        "convnext_small_report_sup": 0.19886550716668377,
+        "seresnext50_32x4d": 0.15472815413725835,
+        "densenet121": 0.138532897343817,
+        "efficientnet_b2": 0.13687345585941474,
+        "swin_tiny_patch4_window7_224": 0.1425813534194923
+      },
+      "auc": 0.5096525096525096
+    },
+    "Effusion": {
+      "weights": {
+        "convnext_small": 0.2300735972669355,
+        "convnext_small_report_sup": 0.39481928017850393,
+        "seresnext50_32x4d": 0.04856619573843965,
+        "densenet121": 0.09554406014280235,
+        "efficientnet_b2": 0.0,
+        "swin_tiny_patch4_window7_224": 0.2309968666733187
+      },
+      "auc": 0.55527950310559
+    },
+    "Synovitis": {
+      "weights": {
+        "convnext_small": 0.12362709361602024,
+        "convnext_small_report_sup": 0.08758896658053679,
+        "seresnext50_32x4d": 0.2148920368311346,
+        "densenet121": 0.1959935834558777,
+        "efficientnet_b2": 0.052649880064909636,
+        "swin_tiny_patch4_window7_224": 0.32524843945152104
+      },
+      "auc": 0.5710872162485066
+    },
+    "Baker's": {
+      "weights": {
+        "convnext_small": 0.06472174224864284,
+        "convnext_small_report_sup": 0.42166491318812405,
+        "seresnext50_32x4d": 0.13537845939933088,
+        "densenet121": 0.1298302095735971,
+        "efficientnet_b2": 0.12437619652996713,
+        "swin_tiny_patch4_window7_224": 0.12402847906033808
+      },
+      "auc": 0.625
+    },
+    "Contusion": {
+      "weights": {
+        "convnext_small": 0.17582521014822425,
+        "convnext_small_report_sup": 0.20749261453994172,
+        "seresnext50_32x4d": 0.0,
+        "densenet121": 0.0,
+        "efficientnet_b2": 0.560466454256241,
+        "swin_tiny_patch4_window7_224": 0.05621572105559308
+      },
+      "auc": 0.5937921727395411
+    },
+    "Fracture": {
+      "weights": {
+        "convnext_small": 0.44851636105868314,
+        "convnext_small_report_sup": 0.11191090901263429,
+        "seresnext50_32x4d": 0.21607060991310748,
+        "densenet121": 0.0,
+        "efficientnet_b2": 0.22350212001557526,
+        "swin_tiny_patch4_window7_224": 0.0
+      },
+      "auc": 0.5819444444444444
+    }
+  },
+  "stacker_models": {
+    "ACL": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "MCL": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Medial Meniscus": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Lateral Meniscus": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Medial OA": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Lateral OA": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "PF OA": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Effusion": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Synovitis": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Baker's": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Contusion": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    },
+    "Fracture": {
+      "use_stacker": false,
+      "coef": [],
+      "intercept": 0.0,
+      "gain": 0.0
+    }
+  },
+  "calibration_params": {
+    "ACL": {
+      "mu_logit": -0.2587277031959376,
+      "std_logit": 0.052986283570951725,
+      "target_pi": 0.4137931168079376,
+      "target_logit_pi": -0.34830663919235555,
+      "tau": 0.85
+    },
+    "MCL": {
+      "mu_logit": -0.23586110770702362,
+      "std_logit": 0.04091309756040573,
+      "target_pi": 0.1551724076271057,
+      "target_logit_pi": -1.6945957678093657,
+      "tau": 0.85
+    },
+    "Medial Meniscus": {
+      "mu_logit": -0.10193926095962524,
+      "std_logit": 0.07832179963588715,
+      "target_pi": 0.4482758641242981,
+      "target_logit_pi": -0.20763935646798154,
+      "tau": 0.85
+    },
+    "Lateral Meniscus": {
+      "mu_logit": -0.1984701305627823,
+      "std_logit": 0.14459013938903809,
+      "target_pi": 0.3965517282485962,
+      "target_logit_pi": -0.41985382838227947,
+      "tau": 0.85
+    },
+    "Medial OA": {
+      "mu_logit": -0.1810750663280487,
+      "std_logit": 0.23334726691246033,
+      "target_pi": 0.2586206793785095,
+      "target_logit_pi": -1.0531499681893282,
+      "tau": 0.85
+    },
+    "Lateral OA": {
+      "mu_logit": -0.3611637353897095,
+      "std_logit": 0.14962755143642426,
+      "target_pi": 0.18965516984462738,
+      "target_logit_pi": -1.4522523456286582,
+      "tau": 0.85
+    },
+    "PF OA": {
+      "mu_logit": -0.16684584319591522,
+      "std_logit": 0.14080432057380676,
+      "target_pi": 0.36206895112991333,
+      "target_logit_pi": -0.5663955372103406,
+      "tau": 0.85
+    },
+    "Effusion": {
+      "mu_logit": 0.2562035322189331,
+      "std_logit": 0.10480198264122009,
+      "target_pi": 0.6034482717514038,
+      "target_logit_pi": 0.41985382838227947,
+      "tau": 0.85
+    },
+    "Synovitis": {
+      "mu_logit": -0.055891916155815125,
+      "std_logit": 0.08989843726158142,
+      "target_pi": 0.4655172526836395,
+      "target_logit_pi": -0.13815029304740822,
+      "tau": 0.85
+    },
+    "Baker's": {
+      "mu_logit": -0.14214283227920532,
+      "std_logit": 0.17730814218521118,
+      "target_pi": 0.2068965584039688,
+      "target_logit_pi": -1.3437347059928504,
+      "tau": 0.85
+    },
+    "Contusion": {
+      "mu_logit": -0.1442032903432846,
+      "std_logit": 0.11716784536838531,
+      "target_pi": 0.32758620381355286,
+      "target_logit_pi": -0.7191226809594384,
+      "tau": 0.85
+    },
+    "Fracture": {
+      "mu_logit": -0.30753305554389954,
+      "std_logit": 0.10001891851425171,
+      "target_pi": 0.3103448152542114,
+      "target_logit_pi": -0.7985077538355956,
+      "tau": 0.85
+    }
+  },
+  "scores": {
+    "initial_uniform_auc": 0.4989,
+    "global_slsqp_auc": 0.5325,
+    "final_audited_auc": 0.5764196386655208,
+    "stage4_grandmaster_auc": 0.5863124747527474
+  }
+}

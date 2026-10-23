@@ -1,0 +1,19 @@
+{
+  "score": 0.49890438921503216,
+  "weights": {
+    "convnext_small": 0.1665039894268795,
+    "densenet121": 0.16699202101328217,
+    "efficientnet_b0": 0.1665039896927982,
+    "efficientnet_b2": 0.16699202101328128,
+    "seresnext50_32x4d": 0.1665039894268795,
+    "swin_tiny_patch4_window7_224": 0.1665039894268795
+  },
+  "single_scores": {
+    "convnext_small": 0.5289310671824555,
+    "densenet121": 0.4941599027791479,
+    "efficientnet_b0": 0.48558598957978033,
+    "efficientnet_b2": 0.5167756362126343,
+    "seresnext50_32x4d": 0.5073010683173861,
+    "swin_tiny_patch4_window7_224": 0.5040413375165772
+  }
+}

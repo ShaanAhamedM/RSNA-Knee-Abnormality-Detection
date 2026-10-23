@@ -1,0 +1,20 @@
+{
+  "coverage_90": {
+    "macro_auc": 0.7702,
+    "mean_specificity": 0.6875,
+    "mean_ppv": 0.5863,
+    "mean_npv": 0.8516
+  },
+  "coverage_80": {
+    "macro_auc": 0.7713,
+    "mean_specificity": 0.6993,
+    "mean_ppv": 0.5882,
+    "mean_npv": 0.8564
+  },
+  "coverage_70": {
+    "macro_auc": 0.7711,
+    "mean_specificity": 0.7178,
+    "mean_ppv": 0.589,
+    "mean_npv": 0.8642
+  }
+}

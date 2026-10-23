@@ -1,0 +1,107 @@
+{
+  "optimal_weights": {
+    "ACL": [
+      0.0,
+      0.0,
+      0.5,
+      0.5,
+      0.0
+    ],
+    "MCL": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Medial Meniscus": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Lateral Meniscus": [
+      0.1,
+      0.1,
+      0.3,
+      0.4,
+      0.1
+    ],
+    "Medial OA": [
+      0.0,
+      0.5,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "Lateral OA": [
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "PF OA": [
+      0.5,
+      0.0,
+      0.5,
+      0.0,
+      0.0
+    ],
+    "Effusion": [
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Synovitis": [
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Baker's": [
+      1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Contusion": [
+      0.5,
+      0.5,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "Fracture": [
+      0.0,
+      0.5,
+      0.0,
+      0.5,
+      0.0
+    ]
+  },
+  "stacker_retained": {
+    "ACL": false,
+    "MCL": false,
+    "Medial Meniscus": false,
+    "Lateral Meniscus": false,
+    "Medial OA": false,
+    "Lateral OA": false,
+    "PF OA": false,
+    "Effusion": false,
+    "Synovitis": true,
+    "Baker's": false,
+    "Contusion": false,
+    "Fracture": false
+  },
+  "unfiltered_gold_macro_auc": 0.7510118906004504,
+  "triage_90pct_macro_auc": 0.7570524986110271,
+  "triage_80pct_macro_auc": 0.7356024156708404,
+  "triage_80pct_sensitivity": 0.22470927467421153,
+  "triage_80pct_specificity": 0.9086244388327721
+}
