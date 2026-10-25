@@ -1,0 +1,16 @@
+{
+  "id": "shaanahamedm/rsna-knee-grandmaster-inference",
+  "title": "RSNA Knee Grandmaster Inference",
+  "code_file": "kaggle_inference_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": [
+    "shaanahamedm/rsna-knee-weights"
+  ],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ]
+}
