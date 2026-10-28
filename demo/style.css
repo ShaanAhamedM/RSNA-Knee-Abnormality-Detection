@@ -560,43 +560,6 @@ body {
   line-height: 1.55;
 }
 
-/* Interview Talking Point Box */
-.interview-note-box {
-  background-color: #faf5eb;
-  border: 1px solid var(--c-dun);
-  border-left: 3px solid var(--c-lion);
-  border-radius: var(--radius-md);
-  padding: 14px 16px;
-  display: flex;
-  flex-direction: column;
-  gap: 6px;
-}
-
-.note-header {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-}
-
-.note-icon {
-  color: var(--c-lion);
-  font-size: 13px;
-}
-
-.note-title {
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.6px;
-  text-transform: uppercase;
-  color: var(--c-kobicha);
-}
-
-.note-text {
-  font-size: 13px;
-  color: var(--c-bistre);
-  line-height: 1.5;
-}
-
 /* ==========================================================================
    RESPONSIVE DESIGN
    ========================================================================== */

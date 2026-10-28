@@ -34,7 +34,6 @@ document.addEventListener("DOMContentLoaded", () => {
   const triageStatusPillEl = document.getElementById("triage-status-pill");
   const explanationTextEl = document.getElementById("explanation-text");
   const patientHistoryTextEl = document.getElementById("patient-history-text");
-  const interviewNoteTextEl = document.getElementById("interview-note-text");
 
   // Buttons
   const btnRunModel = document.getElementById("btn-run-model");
@@ -264,13 +263,6 @@ document.addEventListener("DOMContentLoaded", () => {
       // Clinical explanation & history
       explanationTextEl.textContent = c.ai_impression;
       patientHistoryTextEl.textContent = c.clinical_history;
-
-      // Interview judge talking point
-      if (c.talking_points && c.talking_points.length > 0) {
-        interviewNoteTextEl.textContent = c.talking_points[0];
-      } else {
-        interviewNoteTextEl.textContent = "Demonstrates clean anomaly detection and spatial bounding box localization.";
-      }
     }, 450);
   }
 
