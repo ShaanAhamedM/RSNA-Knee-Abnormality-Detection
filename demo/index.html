@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RSNA Knee MRI CADx | AI Diagnostic Workstation</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='40' fill='%23ffffff'/><circle cx='50' cy='50' r='20' fill='%23000000'/></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Top Navigation / PACS Telemetry Bar -->
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-symbol"></div>
+      <div class="brand-text">
+        <span class="system-title">RSNA KNEE MRI CADx WORKSTATION</span>
+        <span class="system-sub">CLINICAL MULTI-PLANE ENSEMBLE + GATED-GNN INFERENCE ENGINE</span>
+      </div>
+    </div>
+    <div class="telemetry">
+      <div class="telemetry-item">
+        <span class="telemetry-label">INFERENCE LATENCY</span>
+        <span class="telemetry-val" id="telemetry-latency">42 ms</span>
+      </div>
+      <div class="telemetry-item">
+        <span class="telemetry-label">ENGINE PRECISION</span>
+        <span class="telemetry-val">FP16 TensorRT</span>
+      </div>
+      <div class="telemetry-item">
+        <span class="telemetry-label">GOLD-58 MACRO-AUC</span>
+        <span class="telemetry-val highlight">0.7733</span>
+      </div>
+      <div class="telemetry-item">
+        <span class="telemetry-label">SYSTEM STATUS</span>
+        <span class="status-indicator ready"><span class="dot"></span> READY</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Workstation Layout -->
+  <main class="workspace">
+    <!-- Left Panel: 10 Clinical Studies Selector -->
+    <aside class="panel cases-panel">
+      <div class="panel-header">
+        <h2>CLINICAL STUDIES (10 CASES)</h2>
+        <span class="case-counter">10 Loaded</span>
+      </div>
+      <p class="panel-desc">Click any scan to load into primary focus viewport.</p>
+      <div class="cases-list" id="cases-list">
+        <!-- Rendered dynamically by app.js -->
+      </div>
+    </aside>
+
+    <!-- Center Panel: Primary MRI Viewer & Canvas Overlay -->
+    <section class="panel viewer-panel">
+      <div class="viewer-header">
+        <div class="viewer-meta">
+          <span class="active-case-tag" id="active-case-tag">CASE 01</span>
+          <h1 class="active-case-title" id="active-case-title">Anterior Cruciate Ligament (ACL) Tear</h1>
+        </div>
+        <div class="viewer-specs">
+          <span class="spec-pill" id="spec-plane">PLANE: SAGITTAL</span>
+          <span class="spec-pill" id="spec-slice">SLICE: 4 / 6</span>
+          <span class="spec-pill" id="spec-matrix">MATRIX: 512 &times; 512</span>
+        </div>
+      </div>
+
+      <!-- MRI Image Canvas Viewport -->
+      <div class="viewer-viewport" id="viewer-viewport">
+        <div class="canvas-wrapper" id="canvas-wrapper">
+          <img id="mri-image" src="" alt="MRI Scan Slice" />
+          <canvas id="overlay-canvas"></canvas>
+          <div class="scan-beam" id="scan-beam"></div>
+          
+          <!-- Crosshair Hud Overlay -->
+          <div class="hud-crosshair-tl"></div>
+          <div class="hud-crosshair-tr"></div>
+          <div class="hud-crosshair-bl"></div>
+          <div class="hud-crosshair-br"></div>
+          <div class="hud-center-mark">+</div>
+        </div>
+
+        <!-- Floating Bounding Box Label -->
+        <div class="bbox-tag" id="bbox-tag">
+          <span class="bbox-tag-title" id="bbox-tag-title">LESION</span>
+          <span class="bbox-tag-conf" id="bbox-tag-conf">95.5%</span>
+        </div>
+      </div>
+
+      <!-- Action Toolbar -->
+      <div class="viewer-toolbar">
+        <div class="primary-actions">
+          <button id="btn-run-model" class="btn btn-primary">
+            <span class="btn-icon">&#9658;</span> RUN DIAGNOSTIC MODEL
+          </button>
+          <button id="btn-toggle-box" class="btn btn-secondary">
+            TOGGLE BOUNDING BOX
+          </button>
+          <button id="btn-reset" class="btn btn-secondary">
+            RESET
+          </button>
+        </div>
+        <div class="secondary-actions">
+          <span class="shortcut-hint">Shortcuts: <strong>Space</strong> (Run) | <strong>&uarr; / &darr;</strong> (Prev/Next Case)</span>
+        </div>
+      </div>
+
+      <!-- Clinical History Card -->
+      <div class="history-card">
+        <span class="history-label">CLINICAL HISTORY & PRESENTATION:</span>
+        <span class="history-text" id="clinical-history-text">Loading history...</span>
+      </div>
+    </section>
+
+    <!-- Right Panel: AI Findings, Probabilities & Talking Points -->
+    <aside class="panel report-panel">
+      <div class="panel-header">
+        <h2>DIAGNOSTIC FINDINGS & REPORT</h2>
+        <span class="report-badge" id="report-triage-badge">AWAITING INFERENCE</span>
+      </div>
+
+      <!-- Triage & Primary Anomaly Card -->
+      <div class="triage-card" id="triage-card">
+        <div class="triage-header">
+          <span class="triage-tier-title" id="triage-tier-title">TIER 1: URGENT SURGICAL / ORTHOPEDIC REFERRAL</span>
+        </div>
+        <p class="triage-desc" id="ai-impression-text">Click "Run Diagnostic Model" to compute multi-plane feature embeddings and localize lesions.</p>
+      </div>
+
+      <!-- 12 Pathology Probabilities Table -->
+      <div class="probabilities-section">
+        <div class="section-title-row">
+          <h3>12 TARGET PATHOLOGY PREDICTIONS</h3>
+          <span class="threshold-note">Triage Threshold: &ge; 50%</span>
+        </div>
+        <div class="prob-list" id="prob-list">
+          <!-- Rendered dynamically by app.js -->
+        </div>
+      </div>
+
+      <!-- Interview Judge Talking Points Box -->
+      <div class="interview-guide-card">
+        <div class="guide-header">
+          <span class="guide-icon">&#9432;</span>
+          <span class="guide-title">INTERVIEW PRESENTATION TALKING POINTS</span>
+        </div>
+        <ul class="guide-points" id="guide-points">
+          <li>Select a scan on the left to review different anatomical views and pathologies.</li>
+          <li>Click 'Run Diagnostic Model' to show real-time inference and explainability bounding box.</li>
+        </ul>
+      </div>
+    </aside>
+  </main>
+
+  <script src="cases_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

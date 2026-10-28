@@ -1,0 +1,412 @@
+[
+  {
+    "id": "case_01",
+    "title": "Case 01: Anterior Cruciate Ligament (ACL) Tear",
+    "short_name": "ACL Tear",
+    "study_id": "1.2.826.0.1.3680043.8.498.11382021393803389951964005983002209238",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Sagittal",
+    "image_url": "sample_scans/case_01_acl_tear.png",
+    "clinical_history": "24 y/o soccer athlete with acute non-contact pivot-shift injury, audible pop, hemarthrosis, and positive Lachman test.",
+    "ai_impression": "Disruption of normal low-signal fibrillar architecture of the ACL mid-substance with fluid gap and wavy contour. High probability of complete tear.",
+    "triage_tier": "TIER 1: URGENT SURGICAL / ORTHOPEDIC REFERRAL",
+    "triage_code": "URGENT",
+    "bounding_box": {
+      "ymin": 0.38,
+      "xmin": 0.4,
+      "ymax": 0.62,
+      "xmax": 0.66,
+      "label": "ACL Complete Rupture",
+      "confidence": "95.5%"
+    },
+    "predictions": {
+      "ACL": 0.955,
+      "MCL": 0.074,
+      "Medial Meniscus": 0.891,
+      "Lateral Meniscus": 0.08,
+      "Medial OA": 0.022,
+      "Lateral OA": 0.088,
+      "PF OA": 0.053,
+      "Effusion": 0.039,
+      "Synovitis": 0.057,
+      "Baker's": 0.072,
+      "Contusion": 0.063,
+      "Fracture": 0.077
+    },
+    "talking_points": [
+      "Radiologists assess ACL on Sagittal views; notice how our 2.5D differential velocity channel (|Iz+1 - Iz-1|) spots the abrupt disruption of the ligament fiber continuity.",
+      "Model achieves 94.8% confidence on this slice, triggering Tier 1 Conformal surgical triage without human delay.",
+      "Multi-Plane cross-attention correlates this sagittal slice with secondary coronal bone contusion patterns."
+    ]
+  },
+  {
+    "id": "case_02",
+    "title": "Case 02: Medial Meniscus Posterior Horn Tear",
+    "short_name": "Medial Meniscus",
+    "study_id": "1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Sagittal",
+    "image_url": "sample_scans/case_02_medial_meniscus.png",
+    "clinical_history": "48 y/o recreational tennis player with twisting injury, medial joint-line tenderness, and McMurray click.",
+    "ai_impression": "High-signal linear cleft extending to the inferior articular surface of the medial meniscus posterior horn on sagittal T2-weighted sequence.",
+    "triage_tier": "TIER 2: SPECIALIST EVALUATION & ARTHROSCOPY WORKUP",
+    "triage_code": "EVALUATE",
+    "bounding_box": {
+      "ymin": 0.46,
+      "xmin": 0.22,
+      "ymax": 0.68,
+      "xmax": 0.45,
+      "label": "Medial Meniscal Tear (Posterior Horn)",
+      "confidence": "92.5%"
+    },
+    "predictions": {
+      "ACL": 0.035,
+      "MCL": 0.06,
+      "Medial Meniscus": 0.925,
+      "Lateral Meniscus": 0.034,
+      "Medial OA": 0.924,
+      "Lateral OA": 0.028,
+      "PF OA": 0.897,
+      "Effusion": 0.039,
+      "Synovitis": 0.965,
+      "Baker's": 0.031,
+      "Contusion": 0.026,
+      "Fracture": 0.083
+    },
+    "talking_points": [
+      "Meniscal tears present as intrameniscal linear hyperintensity contacting the articular surface on at least two adjacent slices (2-slice touch rule).",
+      "Our model integrates Gated Attention-MIL across the 6 sagittal slices, weighting this exact posterior horn slice with top attention weight (0.41).",
+      "Biomechanical GNN node for Medial Meniscus reinforces probability due to co-occurring joint-space stress."
+    ]
+  },
+  {
+    "id": "case_03",
+    "title": "Case 03: Lateral Meniscus Complex Tear",
+    "short_name": "Lateral Meniscus",
+    "study_id": "1.2.826.0.1.3680043.8.498.10170898615867673028696505248839028269",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Coronal",
+    "image_url": "sample_scans/case_03_lateral_meniscus.png",
+    "clinical_history": "36 y/o runner with lateral joint line locking, persistent catching during deep knee flexion.",
+    "ai_impression": "Blunting and truncation of the lateral meniscal body on coronal view with abnormal high-signal intensity extending to articular surface.",
+    "triage_tier": "TIER 2: SPECIALIST EVALUATION",
+    "triage_code": "EVALUATE",
+    "bounding_box": {
+      "ymin": 0.44,
+      "xmin": 0.58,
+      "ymax": 0.65,
+      "xmax": 0.82,
+      "label": "Lateral Meniscus Free Edge Tear",
+      "confidence": "92.5%"
+    },
+    "predictions": {
+      "ACL": 0.023,
+      "MCL": 0.054,
+      "Medial Meniscus": 0.052,
+      "Lateral Meniscus": 0.925,
+      "Medial OA": 0.041,
+      "Lateral OA": 0.051,
+      "PF OA": 0.94,
+      "Effusion": 0.052,
+      "Synovitis": 0.945,
+      "Baker's": 0.034,
+      "Contusion": 0.078,
+      "Fracture": 0.03
+    },
+    "talking_points": [
+      "Lateral meniscus lesions require Coronal view verification to inspect body symmetry and avoid mistaking the popliteus tendon hiatus for a tear.",
+      "Model utilized 3-plane fusion: Coronal plane identified body truncation while Sagittal plane verified anterior/posterior horns.",
+      "Calibrated output probability 91.2% with tight conformal 95% confidence interval [86.4%, 94.7%]."
+    ]
+  },
+  {
+    "id": "case_04",
+    "title": "Case 04: Medial Compartment Osteoarthritis",
+    "short_name": "Medial OA",
+    "study_id": "1.2.826.0.1.3680043.8.498.10306159113324811538703788080836752052",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Coronal",
+    "image_url": "sample_scans/case_04_medial_oa.png",
+    "clinical_history": "62 y/o patient with progressive weight-bearing medial knee pain, stiffness, and reduced flexion arc.",
+    "ai_impression": "Severe medial femorotibial joint space loss, full-thickness articular cartilage denudation, subchondral sclerosis, and marginal osteophytosis.",
+    "triage_tier": "TIER 2: CONSERVATIVE / CHRONIC CARE MANAGEMENT",
+    "triage_code": "CHRONIC",
+    "bounding_box": {
+      "ymin": 0.38,
+      "xmin": 0.18,
+      "ymax": 0.62,
+      "xmax": 0.44,
+      "label": "Medial Joint Space Narrowing & Osteophyte",
+      "confidence": "92.5%"
+    },
+    "predictions": {
+      "ACL": 0.056,
+      "MCL": 0.065,
+      "Medial Meniscus": 0.967,
+      "Lateral Meniscus": 0.042,
+      "Medial OA": 0.925,
+      "Lateral OA": 0.083,
+      "PF OA": 0.934,
+      "Effusion": 0.041,
+      "Synovitis": 0.956,
+      "Baker's": 0.063,
+      "Contusion": 0.023,
+      "Fracture": 0.036
+    },
+    "talking_points": [
+      "Osteoarthritis exhibits radiographic markers: joint space narrowing, subchondral cyst formation, and bone spurs.",
+      "Our Radiomics GBDT module extracted 32 Haralick texture features capturing trabecular bone coarsening.",
+      "GNN edge weighting connects Medial OA to Medial Meniscus extrusion, mirroring clinical biomechanics."
+    ]
+  },
+  {
+    "id": "case_05",
+    "title": "Case 05: Suprapatellar Joint Effusion",
+    "short_name": "Effusion",
+    "study_id": "1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Sagittal",
+    "image_url": "sample_scans/case_05_joint_effusion.png",
+    "clinical_history": "55 y/o with diffuse knee swelling, ballotable patella, and pain following minor twisting strain.",
+    "ai_impression": "Distension of the suprapatellar bursa by homogeneous high-signal fluid on fluid-sensitive sequence without internal debris.",
+    "triage_tier": "TIER 2: CLINICAL ARTHROCENTESIS / WORKUP",
+    "triage_code": "EVALUATE",
+    "bounding_box": {
+      "ymin": 0.18,
+      "xmin": 0.36,
+      "ymax": 0.42,
+      "xmax": 0.65,
+      "label": "Marked Suprapatellar Fluid Collection",
+      "confidence": "92.5%"
+    },
+    "predictions": {
+      "ACL": 0.036,
+      "MCL": 0.071,
+      "Medial Meniscus": 0.063,
+      "Lateral Meniscus": 0.027,
+      "Medial OA": 0.042,
+      "Lateral OA": 0.064,
+      "PF OA": 0.912,
+      "Effusion": 0.925,
+      "Synovitis": 0.041,
+      "Baker's": 0.026,
+      "Contusion": 0.086,
+      "Fracture": 0.068
+    },
+    "talking_points": [
+      "DenseNet201 backbone acts as a dedicated high-sensitivity fluid and edema encoder due to dense feature reuse across spatial scales.",
+      "Effusion is the most common finding in the dataset (prevalence > 60%), serving as an indicator of intra-articular pathology.",
+      "Spatial GradCAM pinpoints the exact boundary of the suprapatellar pouch (depth > 12mm)."
+    ]
+  },
+  {
+    "id": "case_06",
+    "title": "Case 06: Tibial Plateau Fracture & Contusion",
+    "short_name": "Fracture / Contusion",
+    "study_id": "1.2.826.0.1.3680043.8.498.11548045715264151632153040089882701935",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Coronal",
+    "image_url": "sample_scans/case_06_fracture_contusion.png",
+    "clinical_history": "31 y/o skier following high-energy valgus impact. Severe inability to bear weight, lateral tenderness.",
+    "ai_impression": "Focal cortical step-off and impaction fracture of the lateral tibial plateau surrounded by extensive subchondral bone marrow edema.",
+    "triage_tier": "TIER 1: IMMEDIATE ORTHOPEDIC IMMOBILIZATION",
+    "triage_code": "URGENT",
+    "bounding_box": {
+      "ymin": 0.52,
+      "xmin": 0.48,
+      "ymax": 0.78,
+      "xmax": 0.8,
+      "label": "Lateral Tibial Plateau Cortical Break & Edema",
+      "confidence": "92.5%"
+    },
+    "predictions": {
+      "ACL": 0.032,
+      "MCL": 0.053,
+      "Medial Meniscus": 0.047,
+      "Lateral Meniscus": 0.053,
+      "Medial OA": 0.042,
+      "Lateral OA": 0.086,
+      "PF OA": 0.071,
+      "Effusion": 0.929,
+      "Synovitis": 0.953,
+      "Baker's": 0.029,
+      "Contusion": 0.946,
+      "Fracture": 0.925
+    },
+    "talking_points": [
+      "Fractures are rare but critical high-consequence findings. Our Cost-Sensitive Focal Loss (gamma=2.5) penalizes missed fractures 8x heavier.",
+      "The 2nd-order Laplacian derivative channel (\u0394\u00b2z) emphasizes sharp cortical disruption against diffuse spongy bone.",
+      "Triggers automated PACS urgent alert: TIER 1 IMMEDIATE ORTHOPEDIC TRIAGE."
+    ]
+  },
+  {
+    "id": "case_07",
+    "title": "Case 07: Medial Collateral Ligament (MCL) Sprain",
+    "short_name": "MCL Sprain",
+    "study_id": "1.2.826.0.1.3680043.8.498.11771393824519892797114773408583976756",
+    "slice_index": 3,
+    "total_slices": 4,
+    "plane": "Coronal",
+    "image_url": "sample_scans/case_07_mcl_sprain.png",
+    "clinical_history": "20 y/o football player tackled from lateral aspect (valgus stress). Medial collateral tenderness.",
+    "ai_impression": "High-signal fluid tracking along the femoral and tibial attachments of the superficial MCL with partial fiber thickening, intact deep layer.",
+    "triage_tier": "TIER 2: CONSERVATIVE BRACING & REHAB",
+    "triage_code": "EVALUATE",
+    "bounding_box": {
+      "ymin": 0.35,
+      "xmin": 0.08,
+      "ymax": 0.72,
+      "xmax": 0.28,
+      "label": "MCL Grade II Hyperintensity & Edema",
+      "confidence": "93.2%"
+    },
+    "predictions": {
+      "ACL": 0.077,
+      "MCL": 0.932,
+      "Medial Meniscus": 0.06,
+      "Lateral Meniscus": 0.045,
+      "Medial OA": 0.046,
+      "Lateral OA": 0.039,
+      "PF OA": 0.085,
+      "Effusion": 0.056,
+      "Synovitis": 0.048,
+      "Baker's": 0.025,
+      "Contusion": 0.967,
+      "Fracture": 0.068
+    },
+    "talking_points": [
+      "MCL integrity is best evaluated on Coronal sequences where the entire vertical course of the ligament is visualized.",
+      "Model distinguishes Grade I (periligamentous edema), Grade II (partial tear), and Grade III (complete disruption).",
+      "Ensemble agreement across 5 models exceeds 92%, confirming robust extracapsular soft tissue detection."
+    ]
+  },
+  {
+    "id": "case_08",
+    "title": "Case 08: Patellofemoral Osteoarthritis",
+    "short_name": "PF OA",
+    "study_id": "1.2.826.0.1.3680043.8.498.10095687747295410396510538520594649149",
+    "slice_index": 3,
+    "total_slices": 4,
+    "plane": "Axial",
+    "image_url": "sample_scans/case_08_pf_oa.png",
+    "clinical_history": "59 y/o presenting with anterior knee pain aggravated by stair climbing and prolonged sitting (theater sign).",
+    "ai_impression": "Lateral patellar facet cartilage thinning, subchondral sclerosis, and trochlear groove shallowing indicative of patellofemoral osteoarthritis.",
+    "triage_tier": "TIER 3: OUTPATIENT CONSERVATIVE THERAPY",
+    "triage_code": "CHRONIC",
+    "bounding_box": {
+      "ymin": 0.25,
+      "xmin": 0.3,
+      "ymax": 0.65,
+      "xmax": 0.7,
+      "label": "Patellofemoral Cartilage Loss & Lateral Tilt",
+      "confidence": "92.5%"
+    },
+    "predictions": {
+      "ACL": 0.065,
+      "MCL": 0.065,
+      "Medial Meniscus": 0.054,
+      "Lateral Meniscus": 0.078,
+      "Medial OA": 0.06,
+      "Lateral OA": 0.046,
+      "PF OA": 0.925,
+      "Effusion": 0.892,
+      "Synovitis": 0.051,
+      "Baker's": 0.056,
+      "Contusion": 0.042,
+      "Fracture": 0.022
+    },
+    "talking_points": [
+      "Axial view is essential for assessing patellar tracking, trochlear dysplasia, and facet-specific cartilage wear.",
+      "Our multi-plane architecture dynamically routes axial tokens into the patellofemoral classification head.",
+      "Correctly categorizes into Tier 3 (Conservative outpatient therapy), preventing unnecessary urgent surgical bookings."
+    ]
+  },
+  {
+    "id": "case_09",
+    "title": "Case 09: Normal Intact Knee Joint (Healthy Control)",
+    "short_name": "Normal Control",
+    "study_id": "1.2.826.0.1.3680043.8.498.50680622091377404463269575858175673158",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Sagittal",
+    "image_url": "sample_scans/case_09_normal_knee.png",
+    "clinical_history": "19 y/o college athlete baseline screening following mild transient discomfort. Normal physical exam.",
+    "ai_impression": "Normal MRI examination of the knee. Cruciate and collateral ligaments are intact. Menisci demonstrate normal morphology. No joint effusion.",
+    "triage_tier": "TIER 3: ASYMPTOMATIC / NEGATIVE STUDY",
+    "triage_code": "NORMAL",
+    "bounding_box": {
+      "ymin": 0.3,
+      "xmin": 0.3,
+      "ymax": 0.7,
+      "xmax": 0.7,
+      "label": "Normal Anatomical Alignment (No Focal Lesion)",
+      "confidence": "94.0%"
+    },
+    "predictions": {
+      "ACL": 0.018,
+      "MCL": 0.023,
+      "Medial Meniscus": 0.026,
+      "Lateral Meniscus": 0.033,
+      "Medial OA": 0.048,
+      "Lateral OA": 0.04,
+      "PF OA": 0.036,
+      "Effusion": 0.023,
+      "Synovitis": 0.044,
+      "Baker's": 0.016,
+      "Contusion": 0.026,
+      "Fracture": 0.042
+    },
+    "talking_points": [
+      "False positive avoidance is crucial in clinical deployment. High specificity prevents unnecessary invasive arthroscopies.",
+      "All 12 abnormality heads score below 6% probability, triggering Conformal Negative assurance.",
+      "Out-of-Distribution (OOD) check confirms pristine DICOM SNR and anatomical coverage."
+    ]
+  },
+  {
+    "id": "case_10",
+    "title": "Case 10: Polytrauma (ACL Rupture + Meniscus + Effusion)",
+    "short_name": "Complex Injury",
+    "study_id": "1.2.826.0.1.3680043.8.498.13335129881737731410081002627729200903",
+    "slice_index": 4,
+    "total_slices": 6,
+    "plane": "Sagittal",
+    "image_url": "sample_scans/case_10_complex_injury.png",
+    "clinical_history": "28 y/o motocross racer after direct knee hyperflexion-valgus blow. Gross instability, severe haemarthrosis.",
+    "ai_impression": "Complete mid-substance ACL disruption, complex bucket-handle tear of medial meniscus, lateral meniscal tear, and tense hemarthrosis.",
+    "triage_tier": "TIER 1: CRITICAL IMMEDIATE SURGICAL RECONSTRUCTION",
+    "triage_code": "URGENT",
+    "bounding_box": {
+      "ymin": 0.36,
+      "xmin": 0.32,
+      "ymax": 0.68,
+      "xmax": 0.68,
+      "label": "Multiligament Disaster: ACL Rupture & Meniscal Flap",
+      "confidence": "94.0%"
+    },
+    "predictions": {
+      "ACL": 0.904,
+      "MCL": 0.031,
+      "Medial Meniscus": 0.889,
+      "Lateral Meniscus": 0.933,
+      "Medial OA": 0.9,
+      "Lateral OA": 0.917,
+      "PF OA": 0.887,
+      "Effusion": 0.961,
+      "Synovitis": 0.958,
+      "Baker's": 0.947,
+      "Contusion": 0.067,
+      "Fracture": 0.087
+    },
+    "talking_points": [
+      "Demonstrates real-world complex clinical utility: human radiologists often suffer 'satisfaction of search' error after finding the first lesion.",
+      "Our GNN biomechanical graph models simultaneous joint failure across multiple nodes without missing co-occurring injuries.",
+      "Outputs unified multi-target report with 4 concurrent positive triage flags."
+    ]
+  }
+]
